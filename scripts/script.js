@@ -38,12 +38,12 @@ function geo(x, y, l){
 }
 draw('#421d21', '#231714', 100, 55, 0, 0); 
 
-/*.....Randomize on click /tap.......*/
+/*.....Randomize on click /tap.......
 window.addEventListener('mousedown',function(e){
   e.preventDefault();
   draw('#421d21', '#231714', 100, 55, 0, 0); 
 }, false);
-
+*/
 
 /* cube scroll animation */
 window.addEventListener('scroll', () => {
