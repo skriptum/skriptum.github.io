@@ -14,7 +14,8 @@ body {
   background-color: rgb(209, 209, 209);
   position: relative;
   margin-bottom: 5%;
-  box-shadow: 2vmin 2vmin rgba(0, 0, 0, 0.4) ;
+  box-shadow: 2vmin 2vmin 5px rgba(0, 0, 0, 0.4);
+  opacity: 1;
 }
 
 .cube-content {
@@ -33,7 +34,7 @@ canvas{
   height: 100%;
 }
 
-img { width: 100%; height: auto; }
+.logo-img { width: 100%; height: auto; }
 
 
 @media screen and (orientation:portrait) {
@@ -98,14 +99,13 @@ img { width: 100%; height: auto; }
     padding: 5%;
     position: fixed;
     width: 40vw;
-    margin-top: 60vh;
     color: white;
+    margin-top: 60vh;
     }
 
   .right-side {
     left: 45%;
     width: 35vw;
-    min-height: 200vh;
     padding: 5%;
     position: relative;
     background-color: white;
@@ -113,7 +113,7 @@ img { width: 100%; height: auto; }
     margin: 5%;
   }
 
-  img { width: 80%; height: auto; }
+  .logo-img { width: 80%; height: auto; }
 
   .cube-wrap {
     --size: 15vmin;
@@ -136,17 +136,18 @@ img { width: 100%; height: auto; }
 
 
 .progress {
-  height: 10px;
+  height: 1vmin;
   width: 0%;
-  background-color: rgb(235, 154, 116);
+  background-color: white;
   position: fixed;
   top: 0;
-  left: 0;
+  left: -10;
   animation: progress 1s linear;
+  border-radius: 0.2vw;
 }
 @keyframes progress {
   to {
-    background-color: rgb(243, 78, 13);
+    background-color: rgb(243, 21, 13);
     width: 100%;
   }
 }
@@ -154,12 +155,12 @@ img { width: 100%; height: auto; }
 
 .cube {
   transform-style: preserve-3d;
-  transform: rotateX(0deg) rotateZ(45deg) rotateY(-45deg);
+  transform: rotateX(0deg) rotateZ(45deg) rotateY(45deg);
   animation: cube 1s linear;
 }
 @keyframes cube {
   to {
-    transform: rotateX(360deg) rotateZ(45deg) rotateY(-45deg);
+    transform: rotateX(420deg) rotateZ(45deg) rotateY(45deg);
   }
 }
 

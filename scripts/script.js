@@ -44,17 +44,6 @@ window.addEventListener('mousedown',function(e){
   draw('#421d21', '#231714', 100, 55, 0, 0); 
 }, false);
 
-window.addEventListener('touchstart',function(e){
-  e.preventDefault();
-  draw('#421d21', '#231714', 100, 55, 0, 0); 
-}, false);
-
-/*.....Resize.......*/
-window.addEventListener('resize',function(){
-  c.width = w = window.innerWidth;
-  c.height = h = window.innerHeight;
-  draw('#421d21', '#231714', 100, 55, 0, 0); 
-},false);
 
 /* cube scroll animation */
 window.addEventListener('scroll', () => {
