@@ -39,6 +39,7 @@ canvas{
     background-color: whitesmoke;
     padding: 5%;
     min-height: 70vmin;
+    border: 4px solid black;
 }
 
 .btn {
@@ -90,6 +91,7 @@ canvas{
   .right-side {
     left: 45%;
     width: 35vw;
+    /* position: fixed; */
     position: relative;
     margin: 5%;
   }

@@ -3,6 +3,8 @@ var w = c.width = window.innerWidth;
 var h = c.height = window.innerHeight;
 var $ = c.getContext("2d");
 
+// setInterval("draw('#421d21', '#4c2006', 100, 55, 0, 0)", 5000); // Milliseconds
+
 function draw(c1, c2, s, rat, _x, _y){
 	var x=0, y=0;
 	var col = 0, split = rat/100;
@@ -39,10 +41,10 @@ function geo(x, y, l){
 draw('#421d21', '#4c2006', 100, 55, 0, 0); 
 
 
-window.addEventListener('keydown',function(e){
-  e.preventDefault();
-  draw('#421d21', '#4c2006', 100, 55, 0, 0); 
-}, false);
+// window.addEventListener('keydown',function(e){
+//   e.preventDefault();
+//   draw('#421d21', '#4c2006', 100, 55, 0, 0); 
+// }, false);
 
 window.addEventListener('resize',function(e){
 	e.preventDefault();

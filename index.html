@@ -8,27 +8,29 @@
   <link rel = "stylesheet" href="styles/main.css">
 </head>
 <body>
-
+<!-- background-canvas -->
 <canvas id = 'canva'></canvas>
 
+<!-- Skriptum Logo -->
 <div class="left-side">
     <img src="images/logo.svg" alt="Logo" class="logo-img">
 </div>
 
-<!-- 
+<!-- Copyright Logo -->
 <div class ="left-content">
-    <h1>Bürgerlich: ******* ****</h1>
-</div> -->
+    <h1>&copy</h1>Copyright <script type="text/JavaScript">document.write(new Date().getFullYear());</script>
+</div>
 
+<!-- Über Mich Abteilung -->
 <div class="right-side">
-    <h1>Über Mich</h1>
+    <h1>About</h1>
     Interessiere mich für alles in der Sphaere zwischen Politik und Internet.
     Bin begeisterter Python-Entwickler<br>
-    Mails an <a href="mailto:kkx@protonmail.com" style="color: darkcyan;">kkx@protonmail.com</a></h4>
+    Mails an <a href="mailto:kkx@protonmail.com" style="color: darkcyan;">kkx@protonmail.com</a>
 
 </div>
 
-
+<!-- Projekt abteilung -->
 <div class="right-side">
     <h1>Projekte</h1>
     <a href="html/twitter.html" target="_blank" rel="nofollow" style="color: inherit">
@@ -55,11 +57,24 @@
     </a>
 
 </div>
-
+<!-- Kontakt abteilung -->
 <div class="right-side">
-    &copy Copyright <script type="text/JavaScript">document.write(new Date().getFullYear());</script>
+    <h1>Kontakt</h1>
+
+    <a href="mailto:kkx@protonmail.com" style="color: darkcyan;">
+        <!-- <img src="images/mail.svg" alt="Mail-Icon"> -->
+        <button class="btn draw-border">Mail</button><br>
+    </a><br>
+    
+    <a href="https://github.com/skriptum" target="_blank" style="color:darkcyan;">
+            <!-- <img src="images/github.svg" alt="github"> -->
+            <button class="btn draw-border">Github</button>
+    </a>
+    
+
 </div>
 
+<!-- Statische Sachen wie ProgressBar und der Cube -->
 <div class="progress"></div>
 
 <div class="cube-wrap">
