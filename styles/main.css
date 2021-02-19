@@ -2,7 +2,7 @@ body {
     padding: 0;
     margin: 0;
     min-height: 100vh;
-    background-color:black;
+    background-color:rgb(66, 14, 10);
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 2vh;
     width: 100%;
@@ -13,37 +13,44 @@ body {
   position: absolute;
   width: 100%;
   border-radius: 1vmin;
-  height: auto;
 }
 
 .square-div {
   position: relative;
   width: 100%;
-}
 
-.square-div:after {
   content: "";
   display: block;
   padding-bottom: 100%;
   background-color: #f9f9f9;
   margin-bottom: 5%;
   box-shadow: 1vmin 1vmin 2vmin rgba(0, 0, 0, 0.4);
-  border-radius: 1vmin;
-  overflow: hidden;
+  border-radius: 2vmin;
+  overflow:scroll;
 }
 
 
 .sq-content {
   padding: 5%;
-  padding-top: 55%;
+  padding-top: 60%;
   position: absolute;
   width: 90%;
   height: 30%;
+  overflow: scroll;
+  text-align: center;
 }
 
-
-
-
+.btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  line-height: 1.5;
+  font: 700 1.2rem "Roboto Slab", sans-serif;
+  padding: 1em 2em;
+  letter-spacing: 0.05rem;
+  min-width: 50%;
+  min-height: 5vh;
+}
 
 canvas{
   position:fixed;
@@ -53,107 +60,135 @@ canvas{
   height: 100%;
 }
 
-.logo-img { width: 100%; height: auto; }
+.logo-img { width: 80%; height: auto; }
 
+.cube-wrap {
+  --size: 15vmin;
+  position: fixed;
+  width: 0;
+  height: 0;
+  perspective: 100vmin;
+}
+
+.right-side {
+  border-radius: 2vw;
+  padding: 5%;
+  color: black;   
+  margin: 5%;
+  background-color: whitesmoke;
+}
+
+.left-content {
+  padding: 5%;
+  color: white;
+}
+
+.left-side {
+  padding: 5%;
+  color: white;
+}
+
+
+/* Custom definitions of the content 
+depending on orientation*/
 
 @media screen and (orientation:portrait) {
   .left-side {
     width: 90vw;
     position:static;
-    color: white;
     height: 20%;
-    padding: 5%;
     margin-top: 20vh;
-    animation: 1s left-side linear;
     text-align: center;
   }
-  @keyframes body {
-    to {
-      background-color: white;
-    }
-  }
-
+    
   .right-side {
     position:static;
-    border-radius: 2vw;
-    padding: 5%;
-    color: black;   
-    margin: 5%;
-    background-color: whitesmoke;
   }
 
-  .left-text {
-    padding: 5%;
+  .left-content {
     position: static;
-    color: white;
-    /* margin-top: 30vh; */
     }
 
   .cube-wrap {
-    --size: 15vmin;
-    position: fixed;
     top: 10%;
     left: 50%;
-    width: 0;
-    height: 0;
-    perspective: 100vmin;
   }
 
   
 }
 
-
-
-
 @media screen and (orientation:landscape) { 
   .left-side {
     top: 35%;
     position: fixed;
-    padding: 5%;
     height: 20vh;
     width: 50vw;
   }
 
-  .left-text {
-    padding: 5%;
+  .left-content {
     position: fixed;
     width: 40vw;
-    color: white;
     margin-top: 60vh;
     }
 
   .right-side {
     left: 45%;
     width: 35vw;
-    padding: 5%;
     position: relative;
-    background-color: whitesmoke;
-    border-radius: 2vh;
-    margin: 5%;
   }
-
-  .logo-img { width: 80%; height: auto; }
 
   .cube-wrap {
-    --size: 15vmin;
-    position: fixed;
     top: 20%;
     left: 25%;
-    width: 0;
-    height: 0;
-    perspective: 100vmin;
   }
 
 }
 
-@keyframes right-side {
-  to {
-    background-color: white;
-  }
+
+/* Everything related to the button animation */
+.draw-border {
+  box-shadow: inset 0 0 0 5px #000000;
+  color: #000000;
+  transition: color 0.25s 0.0833333333s;
+  position: relative;
+}
+.draw-border::before, .draw-border::after {
+  border: 0 solid transparent;
+  box-sizing: border-box;
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  width: 0;
+  height: 0;
+  bottom: 0;
+  right: 0;
+}
+.draw-border::before {
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+}
+.draw-border::after {
+  border-top-width: 5px;
+  border-right-width: 5px;
+}
+.draw-border:hover {
+  color: rgb(255, 174, 0);
+}
+.draw-border:hover::before, .draw-border:hover::after {
+  border-color: rgb(255, 174, 0);
+  transition: border-color 0s, width 0.25s, height 0.25s;
+  width: 100%;
+  height: 100%;
+}
+.draw-border:hover::before {
+  transition-delay: 0s, 0s, 0.25s;
+}
+.draw-border:hover::after {
+  transition-delay: 0s, 0.25s, 0s;
 }
 
 
-
+/* everythin related to the progress bar at the top */
 .progress {
   height: 1vmin;
   width: 0%;
@@ -171,7 +206,7 @@ canvas{
   }
 }
 
-
+/*everything related to the cube */
 .cube {
   transform-style: preserve-3d;
   transform: rotateX(0deg) rotateZ(45deg) rotateY(45deg);

@@ -36,14 +36,18 @@ function geo(x, y, l){
 	$.fill();
 	$.restore();
 }
-draw('#421d21', '#231714', 100, 55, 0, 0); 
+draw('#421d21', '#4c2006', 100, 55, 0, 0); 
 
 /*.....Randomize on click /tap.......
-window.addEventListener('mousedown',function(e){
+window.addEventListener('keydown',function(e){
   e.preventDefault();
-  draw('#421d21', '#231714', 100, 55, 0, 0); 
+  draw('#421d21', '#4c2006', 100, 55, 0, 0); 
 }, false);
 */
+window.addEventListener('resize',function(e){
+	e.preventDefault();
+	draw('#421d21', '#4c2006', 100, 55, 0, 0); 
+  }, false);
 
 /* cube scroll animation */
 window.addEventListener('scroll', () => {

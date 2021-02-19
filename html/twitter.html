@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Twitter-Projekt</title>  <!-- Change Title  --->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/jpg" href="../images/cube.ico"/>
+  <link rel = "stylesheet" href="../styles/sub.css">
+</head>
+<body>
+    <!-- Template for Subpages -->
+    <canvas id = 'canva'></canvas>
+
+    <a href="index.html">
+        <div class="left-side">
+            <img src="../images/cube.svg" alt="Logo" style="width: 12vh;">
+            <img src="../images/home.svg" alt="Logo" class="logo-img">
+        </div>
+    </a>
+
+    <!-- Placeholder Image from Online -->
+    <img src="../images/twitter.png" alt="Vorschau" class="left-content">
+
+    <!-- Some Placeholder Text with Headings -->
+    <div class="right-side">
+        <a href="https://abgeordnete.herokuapp.com" target="_blank">
+            <button class="btn draw-border">App starten</button>
+        </a>
+
+        <h1>Bundestagstwitter</h1>
+        Eine Web-App, die alle Twitter-Accounts von Bundestagsmitgliedern erfahrbar macht und vergleicht. Mit einer Wahlkreiskarte,
+        die alle bekannten twitternden MdBs abbildet. 
+        <h2>Funktionsweise</h2>
+        Täglich werden über die <b>Twitter-API</b> die letzten 50 Tweets aller Accounts abgefragt und gesammelt. Daraufhin wird der Text jedes
+        Tweets mit einem Machine-Learning Algorithmus anhand der Laune bewertet, was jedoch aufgrund der kurzen Länge nicht immer funktioniert.
+        Anschließend werden alle Daten der Tweets aggregiert und in eine Datenbank eingespeist. <br>
+        Auf diese Datenbank greift dann <b>Web-App</b>, die komplett in <i>Python</i> geschrieben ist, zu und stellt sie schön dar und 
+        baut Rangfolgen anhand der Daten. Zusätzlich wird noch eine Karte mit Deutschands Wahlkreisen und den Vertretern mit Twitter generiert.
+        Die Visualisierungen basieren vor allem auf der <i>Plotly-Library</i> und die App baut auf <i>Dash</i> und <i>Flask</i> auf.
+
+        <br><br>
+        <a href="https://github.com/skriptum/bundestag" target="_blank" style="color:steelblue;">
+            <img src="../images/github.svg" alt="github"><br>Code bei Github
+        </a>
+
+    </div>
+<script src="../scripts/script.js"></script> 
+</body>
