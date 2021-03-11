@@ -1,0 +1,86 @@
+
+/* everythin related to the progress bar at the top */
+.progress {
+    height: 1vmin;
+    width: 0%;
+    background-color: rgb(255, 136, 0);
+    position: fixed;
+    top: 0;
+    left: -10;
+    animation: progress 1s linear;
+    border-radius: 0.2vw;
+  }
+  @keyframes progress {
+    to {
+      background-color: rgb(201, 7, 0);
+      width: 100%;
+    }
+  }
+
+
+/*everything related to the cube */
+
+.cube-wrap {
+    --size: 15vmin;
+    position: fixed;
+    width: 0;
+    height: 0;
+    perspective: 100vmin;
+    top: 10%;
+    left: 50%;
+  }
+
+.cube {
+    transform-style: preserve-3d;
+    transform: rotateX(0deg) rotateZ(45deg) rotateY(45deg);
+    animation: cube 1s linear;
+  }
+  @keyframes cube {
+    to {
+      transform: rotateX(420deg) rotateZ(45deg) rotateY(45deg);
+    }
+  }
+  
+  .side {
+    position: absolute;
+    width: var(--size);
+    height: var(--size);
+    background-color: #c0b6b4; /* 2 */
+    backface-visibility: visible;
+    top: calc(var(--size) * -.5);
+    left: calc(var(--size) * -.5);
+  }
+  .top {
+    background-color: #df826d; /*1*/
+    transform: rotateX(90deg) translateZ(calc(var(--size) * .5));
+  }
+  .bottom {
+    background-color: #a03f2c; /* 7 */
+    transform: rotateX(90deg) translateZ(calc(var(--size) * -.5));
+  }
+  .left {
+    background-color: #d85035; /* 4 */
+    transform: rotateY(90deg) translateZ(calc(var(--size) * .5));
+  }
+  .right {
+    background-color: #df5e41; /* 3 */
+    transform: rotateY(90deg) translateZ(calc(var(--size) * -.5));
+  }
+  .front {
+    background-color: #b64630; /* 6 */
+    transform: translateZ(calc(var(--size) * .5));
+  }
+  .back {
+    background-color: #c9452b; /* 5 */
+    transform: translateZ(calc(var(--size) * -.5));
+  }
+  
+  :root * {
+    /* Pause the animation */
+    animation-play-state: paused;
+    /* Bind the animation to scroll */
+    animation-delay: calc(var(--scroll) * -1s);
+    /* These last 2 properites clean up overshoot weirdness */
+    animation-iteration-count: 1;
+    animation-fill-mode: both;
+  }
