@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Skriptum</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/jpg" href="images/cube.ico"/>
+  <link rel = "stylesheet" href="styles/main.css">
+</head>
+<body>
+<!-- background-canvas -->
+<canvas id = 'canva'></canvas>
+
+<!-- Skriptum Logo -->
+<div class="left-side">
+    <img src="images/logo.svg" alt="Logo" class="logo-img">
+</div>
+
+<!-- Copyright Logo -->
+<div class ="left-content">
+    <h1>Skriptum, das</h1>
+    <h4>
+    (Computer Science) <em> eine Abfolge von Befehlen </em>, <br> von lat. <i>manu scriptum</i><br>
+    </h4>
+    &copy <script type="text/JavaScript">document.write(new Date().getFullYear());</script>
+</div>
+
+<!-- Über Mich Abteilung -->
+<div class="right-side">
+    <h1>About</h1>
+    Interessiere mich für alles in der Sphaere zwischen Politik und Internet.
+    Bin begeisterter Python-Entwickler<br>
+    Mails an <a href="mailto:kkx@protonmail.com" style="color: darkcyan;">kkx@protonmail.com</a>
+
+</div>
+
+<!-- Projekt abteilung -->
+<div class="right-side">
+    <h1>Projekte</h1>
+    <a href="html/twitter.html" target="_blank" rel="nofollow" style="color: inherit">
+        <div class= "square-div" style="border-color: linear-gradient(to right,orange, red);">
+            <img src="images/twitter-klein.png" alt="app-vorschau" class="sq-image">
+            <div class="sq-content">
+                <h2>Bundestags-Twitter App</h2>
+                <button class="btn draw-border">Mehr erfahren</button>
+                
+                
+            </div>
+        </div>
+    </a>
+
+    <a href="html/unfall.html" target="_blank" rel="nofollow" style="color: inherit">
+        <div class= "square-div">
+            <img src="images/unfall-klein.png" alt="app-vorschau" class="sq-image">
+            <div class="sq-content">
+                <h2>Interaktive Unfallkarte</h2>
+                <button class="btn draw-border">Mehr erfahren</button>
+                
+            </div>
+        </div>
+    </a>
+
+</div>
+<!-- Kontakt abteilung -->
+<div class="right-side">
+    <h1>Kontakt</h1>
+
+    <a href="mailto:kkx@protonmail.com" style="color: darkcyan;">
+        <!-- <img src="images/mail.svg" alt="Mail-Icon"> -->
+        <button class="btn draw-border">Mail</button><br>
+    </a><br>
+    
+    <a href="https://github.com/skriptum" target="_blank" style="color:darkcyan;">
+            <!-- <img src="images/github.svg" alt="github"> -->
+            <button class="btn draw-border">Github</button>
+    </a>
+    
+
+</div>
+
+<!-- Statische Sachen wie ProgressBar und der Cube -->
+<div class="progress"></div>
+
+<div class="cube-wrap">
+    <div class="cube">
+        <div class="side top"></div>
+        <div class="side bottom"></div>
+        <div class="side front"></div>
+        <div class="side back"></div>
+        <div class="side left"></div>
+        <div class="side right"></div>
+    </div>
+</div>
+<script src="scripts/script.js"></script> 
+</body>
+</html>

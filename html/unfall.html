@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Unfall-Projekt</title>  <!-- Change Title  --->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" type="image/jpg" href="../images/cube.ico"/>
+  <link rel = "stylesheet" href="../styles/sub.css">
+</head>
+<body>
+    <!-- Template for Subpages -->
+    <canvas id = 'canva'></canvas>
+
+    <a href="../index.html">
+        <div class="left-side">
+            <img src="../images/cube.svg" alt="Logo" style="width: 12vh;">
+            <img src="../images/home.svg" alt="Logo" class="logo-img">
+        </div>
+    </a>
+
+    <!-- Placeholder Image from Online -->
+    <img src="../images/unfall.png" alt="Vorschau" class="left-content">
+
+    <!-- Some Placeholder Text with Headings -->
+    <div class="right-side">
+        <a href="https://unfall.herokuapp.com" target="_blank">
+            <button class="btn draw-border">App starten</button>
+        </a>
+
+        <h1>Unfallkarte</h1>
+        Eine Interaktive Website, die einem Unfälle in Deutschland interaktiv auf einer Karte präsentiert. 
+        Die Unfälle sind nach selbst einstellbaren Kategorien wie Grad der Verletzungen, beteiligte Farhzeugarten, etc.
+        sortierbar. Außerdem wird die zeitliche Verteilung der jeweiligen Auswahl und die räumliche Sammlung in externen
+        Grafiken dargestellt.
+        <h2>Funktionsweise</h2>
+        Die Unfalldaten stammen aus dem OpenData Projekt des Deutschen Statistischen Bundesamtes. Diese Daten werden zuerst nach Ort
+        gefiltert und in die Website eingespeist. Diese Website ist komplett in <i>Python</i> geschrieben. Das Python-Skript verarbeitet
+        die Daten und stellt sie mithilfe der <i>Plotly-Library</i> dar. Die Nutzereingaben werden in der <i>Flask-App</i> verarbeitet und 
+        anschließend dargestellt.
+
+        <br><br>
+        <a href="https://github.com/skriptum/unfaelle" target="_blank" style="color:steelblue;">
+            <img src="../images/github.svg" alt="github"><br>Code bei Github
+        </a>
+
+    </div>
+<script src="../scripts/script.js"></script> 
+</body>
