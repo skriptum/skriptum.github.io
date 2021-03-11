@@ -1,39 +1,84 @@
+body {
+  background-color: #181818;
+  animation: body 1.5s linear;
+  text-align: center;
+}
+/* Button */
+.btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  line-height: 1.5;
+  font: 700 1.2rem "Roboto Slab", sans-serif;
+  padding: 1em 2em;
+  letter-spacing: 0.05rem;
+  min-height: 5vh;
+  top: 70vh;
+  
+}
 
-/* everythin related to the progress bar at the top */
-.progress {
-    height: 1vmin;
-    width: 0%;
-    background-color: rgb(255, 136, 0);
-    position: fixed;
-    top: 0;
-    left: -10;
-    animation: progress 1s linear;
-    border-radius: 0.2vw;
-  }
-  @keyframes progress {
-    to {
-      background-color: rgb(201, 7, 0);
-      width: 100%;
-    }
-  }
+.draw-border {
+  box-shadow: inset 0 0 0 5px #eeeeee;
+  color: #eeeeee;
+  transition: color 0.25s 0.0833333333s;
+  position: relative;
+}
+.draw-border::before, .draw-border::after {
+  border: 0 solid transparent;
+  box-sizing: border-box;
+  content: "";
+  pointer-events: none;
+  position: absolute;
+  width: 0;
+  height: 0;
+  bottom: 0;
+  right: 0;
+}
+.draw-border::before {
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+}
+.draw-border::after {
+  border-top-width: 5px;
+  border-right-width: 5px;
+}
+.draw-border:hover {
+  color: #d85035;
+}
+.draw-border:hover::before, .draw-border:hover::after {
+  border-color: #d85035;
+  transition: border-color 0s, width 0.25s, height 0.25s;
+  width: 100%;
+  height: 100%;
+}
 
-
+.draw-border:hover::before {
+  transition-delay: 0s, 0s, 0.25s;
+}
+.draw-border:hover::after {
+  transition-delay: 0s, 0.25s, 0s;
+}
 /*everything related to the cube */
 
 .cube-wrap {
+    top: 50%;
+    left: 50%;
     --size: 15vmin;
     position: fixed;
     width: 0;
     height: 0;
     perspective: 100vmin;
-    top: 10%;
-    left: 50%;
   }
+@media screen and (orientation:portrait) {
+  .cube-wrap {
+    --size: 30vmin;
+  }
+}
 
 .cube {
     transform-style: preserve-3d;
     transform: rotateX(0deg) rotateZ(45deg) rotateY(45deg);
-    animation: cube 1s linear;
+    animation: cube 10s linear infinite;
   }
   @keyframes cube {
     to {
@@ -77,9 +122,7 @@
   
   :root * {
     /* Pause the animation */
-    animation-play-state: paused;
-    /* Bind the animation to scroll */
-    animation-delay: calc(var(--scroll) * -1s);
+    animation-play-state: running;
     /* These last 2 properites clean up overshoot weirdness */
     animation-iteration-count: 1;
     animation-fill-mode: both;
