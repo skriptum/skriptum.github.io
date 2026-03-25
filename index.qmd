@@ -1,0 +1,44 @@
+---
+pagetitle: start
+toc: false
+title-block-style: plain
+---
+
+## Hi there
+
+you've stumbled upon my corner of the internet. Here I collect some random thoughts on things friends (and strangers) ask me about, which I am to lazy to answer directly, instead pointing them here. 
+
+You can find out more about me on my main site: [**martenw.com**](https://martenw.com)
+
+_No AI-slop, no ads, no cookies._
+
+---
+
+### fancy intern stuff
+
+This is what most people asked for. I had the crazy opportunity to be an intern at the UN in NY, here's how I got there (so that more nice people can go there) and how I liked it (it was a fever dream; in a good way).
+
+- [**What it's like to be an intern at the UN in New York**](texts/unhq/)
+- [**How-To: Carlo Schmid Programm**](texts/carloschmid/) (german)
+
+---
+
+### train shenanigans
+
+I just hate planes; the whole experience with extremely small seats, ugly airports and an abysmal environmental footprint. And because society has not invented a better method of long-distance transportation yet, I am bound to take a train everywhere I want to go. 
+
+- [**Amtrak Adventures**](texts/amtrak/)
+- [**Ukraine by Night**](texts/kyivtrain/) (german)
+- [**Taking the train from Germany to Morocco**](texts/maroccobytrain)
+
+---
+
+### econ-rant
+
+Well, sometimes studying economics, with its unrealistic models and bad policy advice, just drives you mad (_while at other times it can be beautiful_). These are more about the first part:
+
+- [**The dark intellectual tradition of austerity**](texts/capitalorder/)
+- [**What went wrong in climate economics?**](texts/klimaoekonomik/) (german)
+
+---
+
