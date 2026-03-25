@@ -1,0 +1,51 @@
+project:
+  type: website
+
+website:
+  favicon: images/favicon.ico
+  # image: images/preview.jpg
+  open-graph: 
+    site-name: "mdwm"
+    # description: "quantitative econ student interested in monetary theory, inequality and the history of economic thought"
+    # image: images/preview.jpg
+  site-url: https://mdwm.org/
+  search: false
+  navbar:
+    # logo: images/logo.webp
+    logo-alt: "logo"
+    title: "martens"
+    collapse-below: lg
+    right: 
+      - text: "martenw.com →"
+        href: https://martenw.com
+    left:
+      - text: "← home"
+        href: ./
+
+
+  page-navigation: true
+
+  back-to-top-navigation: false
+
+  page-footer:
+    center:
+      - href: mailto:hi@mdwm.org
+        icon: mail
+        aria-label: mail
+    left: 
+      - text: "© 2024-2026 "
+    right:
+      - href: about.qmd
+        text: about
+
+format:
+  html:
+    theme: [pressmark.scss]
+    toc: true
+    grid:
+      body-width: 800px
+    html-math-method: katex
+    
+
+link-external-icon: false
+link-external-newwindow: true
