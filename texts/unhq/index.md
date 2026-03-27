@@ -1,12 +1,18 @@
 ---
 title: What it's like to be an intern at the UN in New York
-draft: false
 math: false
 description: "Looking back at 6 Months as an intern at UNHQ: the good, the bad, the ugly"
 toc: true
+date: 2026-03-15
 ---
 
+
+
+
+
 ## The Work
+
+![Delegates Lounge (1964) [[UN Photo](https://dam.media.un.org/Package/2AM9LOT_4)]](delegates.jpg)
 
 - depends really on your department, office, team even
 - i dont allow myself to comment on workload / responseibilites, differs even among interns
@@ -36,6 +42,8 @@ this sounds bad:
 
 ## The Pay
 
+![Henri Matisse, Polynesia: Le Ciel (39th Floor of the UNHQ)](polynesia.jpg)
+
 you probably know this by now: there is no pay. Zero. Nada. Niente. 
 - interns are the cheap expendable workforce keeping the UN running
 - shameful for an organisation priding themselves on values, but not even paying fair wages
@@ -57,6 +65,10 @@ tips:
 
 ## The People
 
+A
+
+![Rufino Tamayo: La Fraternidad (hanging in the UNHQ Entryhall)](people.jpg)
+
 not paying your interns ofc leads to a selection of people who work there
 - upper class / rich kids who can afford to go without pay in one of the most expensive cities in the world
 - often times from very good universities (think Science Po, Columbia etc), where it is almost expected that you do something like this
@@ -68,6 +80,8 @@ not paying your interns ofc leads to a selection of people who work there
 - and happy hours / free events where you meet a lot of other people
 
 ## Interlude: The Food
+
+![Eating Facilities at UNHQ (1957) [[UN Photo]()]](dining.jpg)
 
 just a quick side rant
 
@@ -84,6 +98,8 @@ just a quick side rant
 
 ## The City
 
+![Left: Louis Faurer, 52nd Street Pier Looking Towards the United Nations Building (1984) [[NGA.gov](https://www.nga.gov/artworks/222079-52nd-street-pier-looking-towards-united-nations-building-new-york-new-york)] <br> Right: Robert Frank, United Nations Building (1954) [[NGA.gov](https://www.nga.gov/artworks/89446-united-nations-building-new-york-city-no-number)]](building.png)
+
 and there is a reason for that
 
 - i dont need to tell you, new york is just crazy
@@ -95,7 +111,7 @@ and there is a reason for that
   - for a tase: the skint newsletter, culturepass (for free museum entry), free gyms and pools (recreation centers), great public libraries (NYPL), i could go on and on and on
 
 
-## Fin
+## The End
 
 All in all, a great experience
 - considerable financial barrier
