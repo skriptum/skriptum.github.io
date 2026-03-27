@@ -42,6 +42,7 @@ format:
   html:
     theme: [pressmark.scss]
     toc: true
+    toc-location: body
     grid:
       body-width: 800px
     html-math-method: katex

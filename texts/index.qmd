@@ -1,5 +1,6 @@
 ---
 title: Texts
+subtitle: some opinions
 toc: false
 listing:
   contents: ./
@@ -10,12 +11,9 @@ listing:
   filter-ui: false
   page-size: 30
   feed: true
-  fields: [date, title, description]
+  fields: [date, title, description, image]
+
 ---
 
-:::{.content-block}
 
-some of my writings
-
-:::
 

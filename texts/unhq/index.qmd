@@ -1,9 +1,11 @@
 ---
 title: What it's like to be an intern at the UN in New York
 math: false
-description: "Looking back at 6 Months as an intern at UNHQ: the good, the bad, the ugly"
-toc: true
+description: "Looking back at 6 Months  at UNHQ: the good, the bad, the ugly."
 date: 2026-03-15
+toc-location: body
+title-block-banner: false
+image: "delegates.jpg"
 ---
 
 

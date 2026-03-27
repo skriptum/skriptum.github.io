@@ -13,13 +13,13 @@
 
 // Custom Color Definitions
 $primary-color: #f5f5f5;  // page background
-$primary-color-shade: #dedede; // code blocks etc
+$primary-color-shade: #ececec; // code blocks etc
 
 $highlight-color: #990f3d; // color highlights
 $highlight-color-shade: #d0b6b6; // hover color for buttons
 
 $dark : #000000;  // mostly used for borders
-$font-color: #555; // self explanatory 
+$font-color: #1b1b1b; // self explanatory 
 
 $font-family-headings: 'Playfair Display', monospace;
 $font-family-text: 'Josefin Sans', serif;
@@ -32,7 +32,7 @@ $code-block-bg: $primary-color-shade; //e1d3d0
 $code-bg: $primary-color-shade;
 $code-color: $font-color;
 $border-color: #ccbbb1; // color of citation border
-
+$headings-color: $font-color;
 
 $navbar-bg: $primary-color;
 $navbar-fg: $highlight-color;
@@ -85,11 +85,8 @@ $table-border-color: $highlight-color;
 
 .quarto-title-block {
   padding-bottom: 2em;
+  padding-top: 5vh;
   border-bottom: 1px solid $dark;
-}
-
-.quarto-title {
-  padding-bottom: 2em;
 }
 
 .quarto-title-meta-heading {
@@ -101,14 +98,62 @@ $table-border-color: $highlight-color;
   font-family: $font-family-headings;
 }
 
-// remove some annoying things about the header?
-.title-block-header {
-  border-bottom: 1px solid $dark !important;
-} 
-
 header:empty {
   border-bottom: 0px solid $dark !important; 
   // remove the line below the title block if there is no title etc
+}
+
+// make the banner darker 
+
+.quarto-title-banner.page-full {
+  background-color: $primary-color-shade;
+  color: $font-color
+}
+
+#title-block-header.page-full {
+  margin-block-start: 3em;
+  background-color: $primary-color-shade;
+  border-bottom: 0px;
+  color: $font-color ;
+
+  h1 {
+    color: $font-color;
+  }
+}
+
+// TOC in body
+
+nav#TOC {
+  background-color: $primary-color-shade;
+  padding: 0.5em 1em;
+  margin-bottom: 1em;
+
+  #toc-title {
+    font-size: 1em;
+    font-family: $font-family-headings;
+    margin: 0.0em;
+  }
+
+  li a {
+      font-family: $font-family-headings ;
+      color: $font-color;
+    }
+}
+
+nav.toc-active#TOC {
+  background-color: $primary-color;
+}
+
+nav:not(.toc-active)#TOC {
+  li::marker {
+    content: "→ ";
+  }
+}
+
+@media (max-width: 767.98px) {
+  #quarto-content nav[role='doc-toc'] {
+    display: block;
+  }
 }
 
 // Listing
@@ -164,7 +209,6 @@ body {
 h1,h2,h3,h4,h5,h6 {
   font-family: $font-family-headings;
   font-weight: 600;
-  // color: $highlight-color;
   border-bottom: 0 !important;
 }
 
