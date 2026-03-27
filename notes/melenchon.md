@@ -1,10 +1,12 @@
 ---
 draft: false
 title: "Jean-Luc Mélenchon | Marxism, Mass Movements, and the Magic of Elections"
-description: https://www.youtube.com/watch?v=pLmt5qwvzb0
 date: 2025-09-28
 permalink: notes/melenchon
+author: "Jean Luc Mélenchon | Verso Books"
 ---
+
+[https://www.youtube.com/watch?v=pLmt5qwvzb0](https://www.youtube.com/watch?v=pLmt5qwvzb0) [[archive](https://web.archive.org/web/https://www.youtube.com/watch?v=pLmt5qwvzb0)]
 
 One of the most avid thinkers of the French and European left. Three hours long - worth every second! 
 

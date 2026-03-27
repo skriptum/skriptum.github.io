@@ -1,9 +1,11 @@
 ---
 title: I Will Fucking Piledrive You If You Mention AI Again
-description: https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/
 date: 2025-01-10
 permalink: notes/ludic_AI
+author: Nikhil Suresh
 ---
+
+[https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/](https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/) [[archive](https://web.archive.org/web/https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)]
 
 what an amazing read to all the AI bros out there, saying it is the *fUtuRe*. reality is, most of us dont even know what it is, and how to use it properly is something completely different.
 

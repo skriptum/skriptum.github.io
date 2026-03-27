@@ -1,9 +1,13 @@
 ---
 title: "Radical Chic: That Party at Lenny's"
-description: https://nymag.com/article/tom-wolfe-radical-chic-that-party-at-lennys.html
 date: 2025-06-20
 permalink: notes/radical-chic
+author: Tom Wolfe
 ---
+
+![](radical-chic.png)
+
+[https://nymag.com/article/tom-wolfe-radical-chic-that-party-at-lennys.html](https://nymag.com/article/tom-wolfe-radical-chic-that-party-at-lennys.html) [[archive](https://web.archive.org/web/https://nymag.com/article/tom-wolfe-radical-chic-that-party-at-lennys.html)]
 
 Tom Wolfe is just a genius; and this is a masterpiece in upper class "fashionable" politics and white guilt.
 

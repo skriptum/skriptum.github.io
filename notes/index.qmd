@@ -1,5 +1,6 @@
 ---
 title: Notes
+subtitle: Interesting things I stumbled upon on the internet
 toc: false
 listing:
   contents: ./
@@ -10,12 +11,8 @@ listing:
   filter-ui: false
   page-size: 30
   feed: true
-  fields: [date, title, description]
+  fields: [date, image, title, author, description]
 ---
 
-:::{.content-block}
 
-Interesting things I stumbled upon on the internet
-
-:::
 
