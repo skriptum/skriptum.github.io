@@ -9,21 +9,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap'); // Smallcaps
 
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap'); //sans-serif
-@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
 
 
 // Custom Color Definitions
-$primary-color: #f7f6f6;  // page background
-$primary-color-shade: #d0cdcd; // code blocks etc
+$primary-color: #f5f5f5;  // page background
+$primary-color-shade: #dedede; // code blocks etc
 
 $highlight-color: #990f3d; // color highlights
 $highlight-color-shade: #d0b6b6; // hover color for buttons
 
 $dark : #000000;  // mostly used for borders
-$font-color: #111111; // self explanatory 
+$font-color: #555; // self explanatory 
 
-$font-family-headings: 'Silkscreen', monospace;
-$font-family-text: 'Playfair Display', serif;
+$font-family-headings: 'Playfair Display', monospace;
+$font-family-text: 'Josefin Sans', serif;
 $font-family-smallcaps: 'Playfair Display SC', serif;
 
 // Bootstrap Color overwrites
@@ -50,7 +49,7 @@ $table-border-color: $highlight-color;
   font-family: $font-family-headings;
   font-weight: 400;
   position: relative;
-  // margin: 0vw 5vw 0vw 5vw;
+  margin: 0vw 5vw 0vw 5vw;
   border-bottom: 1px solid $dark;
   min-height: 80px;
   .navbar-title {
@@ -103,8 +102,13 @@ $table-border-color: $highlight-color;
 }
 
 // remove some annoying things about the header?
-#title-block-header {
-  border-bottom: 0px solid $dark !important;
+.title-block-header {
+  border-bottom: 1px solid $dark !important;
+} 
+
+header:empty {
+  border-bottom: 0px solid $dark !important; 
+  // remove the line below the title block if there is no title etc
 }
 
 // Listing
@@ -153,14 +157,14 @@ $table-border-color: $highlight-color;
 body {
   font-family: $font-family-text;
   font-weight: 250;
-  line-height: 1.5em;
+  line-height: 1.35em;
   font-size: 1em;
 }
 
 h1,h2,h3,h4,h5,h6 {
   font-family: $font-family-headings;
-  font-weight: 800;
-  color: $highlight-color;
+  font-weight: 600;
+  // color: $highlight-color;
   border-bottom: 0 !important;
 }
 

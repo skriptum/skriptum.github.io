@@ -11,9 +11,9 @@ website:
   site-url: https://mdwm.org/
   search: false
   navbar:
-    # logo: images/logo.webp
+    logo: images/logo.webp
     logo-alt: "logo"
-    title: "martens"
+    # title: "martens"
     collapse-below: lg
     right: 
       - text: "martenw.com →"
