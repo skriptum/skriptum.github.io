@@ -2,7 +2,9 @@
 title: Taking the train from Germany to Morocco
 date: 2024-02-01
 description: |
-  A Lunatics guide on how to travel from Leipzig to Casablanca without flying. Works (almost) perfectly and is definitely more fun than being squeezed into a small seat on Ryanair.
+  A Lunatics guide on how to travel from Leipzig to Casablanca without flying. 
+  Works (almost) perfectly and is definitely more fun than being squeezed into a small seat on Ryanair.
+
 toc: true
 tags:
   - travel
@@ -11,17 +13,19 @@ tags:
 permalink: texts/maroccobytrain
 ---
 
-![Travel Map](map.png)
+![Art-Deco posters by the Chemin de Fer D'Orleans](Posters.png)
 
-Ahh, Morocco. a beautiful country, especially during the long and depressing Northern European winter. Only problem: about 3500km distance and a climate consciousness that makes you not want to fly. 
+***Ahh, Morocco. a beautiful country***, especially during the long and depressing Northern European winter. Only problem: about 3500km distance and a climate consciousness that makes you not want to fly. 
 
 So, how to get from Leipzig to Morocco by train and ferry? Be prepared for a multi-day trip with several stops in beautiful cities along the way.
 
 *Tip*: Get an Interrail ticket, especially in Western Europe it is very advisable and definitely worth the cost compared to normal train ticket prices! And if you are trying to look up train times, use the [Train Planner on the Interrail website](https://www.interrail.eu/en/plan-your-trip/interrail-timetable#/).
 
+![Travel Map](map.jpg)
+
 ## First 1.5 Days: Leipzig to Barcelona
 
-The first itinerary goes directly to Barcelona. I chose the night train from Leipzig to Basel (very uncomfortable and bright at night) to reach the Swiss city early in the morning. Everything is too expensive there, so we move on quickly.
+***The first itinerary takes you directly to Barcelona.*** I chose the night train from Leipzig to Basel (very uncomfortable and bright at night) to reach the Swiss city early in the morning. Everything is too expensive there, so we move on quickly.
 
 Because of the Swiss-French madness and a missing direct train, we have to get to Mulhouse first, before we can go some distance to Valence. Here we get off the train and get something to eat and definitely some *patisserie*. Unfortunately, the TGV station in Valence is, like so many others, just a station in the middle of nowhere, optimized for fast travel and not for comfortable stays.
 
@@ -39,9 +43,9 @@ Arriving in the evening, quickly check into your hostel, drop off your stuff and
 
 ## Second Day: Barcelona - Malaga
 
-The next day you have some time in the capital of Catalonia to enjoy some sun and culture. In the afternoon, board a comfortable train to Malaga. Train travel in Spain is very much organized like flying, so do not be surprised by the boarding procedure and gates at Barcelona-Sants. After about 7 hours you will arrive at the wonderfully named Malaga Maria Zambrano station in the evening.
+***Enjoy some sun and culture*** in the capital of Catalonia the next day. In the afternoon, board a comfortable train to Malaga. Train travel in Spain is very much organized like flying, so do not be surprised by the boarding procedure and gates at Barcelona-Sants. After about 7 hours you will arrive at the wonderfully named Malaga Maria Zambrano station in the evening.
 
-Find a cheap hostel where you can quickly reach the sea and enjoy the city. Dont forget to at least enjoy the view of the old muslim [Alcazaba Fortress](https://en.wikipedia.org/wiki/Alcazaba_of_M%C3%A1laga) if youre staying for longer than one night (recommended).
+Find a cheap hostel where you can quickly reach the sea and enjoy the city. Dont forget to at least enjoy the view of the old moorish [Alcazaba Fortress](https://en.wikipedia.org/wiki/Alcazaba_of_M%C3%A1laga) if youre staying for longer than one night (recommended).
 
 | Train              | Departure | Arrival | Reservation Cost |
 | ------------------ | --------- | ------- | ---------------- |
@@ -49,7 +53,7 @@ Find a cheap hostel where you can quickly reach the sea and enjoy the city. Dont
 
 ## Third Day: Malaga - Casablanca
 
-The third day is the most stressful. 
+***The third day is the most stressful.*** 
 
 > First of all, do not take the ferry from Algeciras! It does not arrive in Tanger Ville, but in Tanger Med, the port far outside the city. It is also much slower than the one from Tarifa.
 
@@ -72,19 +76,18 @@ The train from Tanger to Casablanca is the very comfortable *Al-Boraq* high spee
 
 
 Booking Links
-- Bus Booking: [AVANZABUS](https://booking.avanzabus.com)
-- Ferry Booking: [FRS](https://booking.frs.es/#/en/book)
-- Moroccan Train Booking: [ONCF](https://www.oncf-voyages.ma/)
+
+- Bus: [AVANZABUS](https://booking.avanzabus.com)
+- Ferry: [FRS](https://booking.frs.es/#/en/book)
+- Moroccan Train: [ONCF](https://www.oncf-voyages.ma/)
 
 ## Conclusion
 
 All in all, the drive is very scenic and takes you through half of Europe. 
 
-Is it cheaper than flying? Definitely not! 
-
-Is it better for the environment? Yes (100kg CO2 vs 1t)
-
-Is it more fun than cramming into a Ryanair seat? Definitely!
+- Is it cheaper than flying? Definitely not! 
+- Is it better for the environment? Yes (100kg CO2 vs 1t)
+- Is it more fun than cramming into a Ryanair seat? Definitely!
 
 **Tip**: The Man in Seat 61 is **the** recommended website to find out how to get somewhere by train. Take a look at the guide to get from [London to Morocco](https://www.seat61.com/Morocco.htm) or the [Train Guide to Morocco](https://www.seat61.com/train-travel-in-morocco.htm) before going!
 

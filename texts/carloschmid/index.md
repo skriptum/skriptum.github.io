@@ -5,8 +5,10 @@ draft: false
 toc: true
 permalink: texts/carloschmid
 description: |
-  Wie kommt man durch den Bewerbungsprozess für Praktika in internationalen Organisationen
+  Wie kommt man durch den Bewerbungsprozess für Praktika in internationalen Organisationen?
 ---
+
+![José Zanetti: Mankind’s Struggle for a Lasting Peace (zentrales Wandgemälde im UNHQ in New York)](peace.jpg)
 
 Ein Praktikum bei ner internationalen Organisation, und dann auch noch dafür bezahlt werden? Besser kanns nicht klingen, und gibts auch, mit dem [Carlo-Schmid-Programm](https://www.studienstiftung.de/carlo-schmid). Weil ich vor meiner Bewerbung erfolglos nach Erfahrungsberichten aus dem Bewerbungsprozess gesucht habe, gibts hier eine kleine Gedankensammlung. Ich kannte niemanden davor, und mir hätte das vermutlich geholfen ein bisschen mehr dazu zu wissen (hat aber ohne auch geklappt).
 
@@ -36,7 +38,7 @@ Insgesamt ist es halt wie andere Bewerbungen. Aufeinander abgestimmte Dokumente,
 
 ## 2. Schritt: Bewerbungsgespräch
 
-Bei mir fiel dieser Schritt  zum Glück weg, weil meine Organisation alle Bewerbungen nur intern geranked hat und keine Interviews durchführt. Von dem was ich gehört habe, können die von absolut entspannt bis komplett stressig in allen Varianten kommen, und es ist schwer so richtig abzuschätzen was Sache ist. Insgesamt empfehlenswert ist sich dafür auf "competency based interview questions" vorzubereiten, die sind bei internationalen Organisationen ziemlich oft genutzt. Das ist ne spezifische Art von Fragen, um bestimme Kompetenzen abzufragen (wie der Name schon sagt), und die Antwort darauf sollte immer einem bestimmten Schema folgen (Google ist euer Freund für Beispiele).
+***Bei mir fiel dieser Schritt  zum Glück weg***, weil meine Organisation alle Bewerbungen nur intern geranked hat und keine Interviews durchführt. Von dem was ich gehört habe, können die von absolut entspannt bis komplett stressig in allen Varianten kommen, und es ist schwer so richtig abzuschätzen was Sache ist. Insgesamt empfehlenswert ist sich dafür auf "competency based interview questions" vorzubereiten, die sind bei internationalen Organisationen ziemlich oft genutzt. Das ist ne spezifische Art von Fragen, um bestimme Kompetenzen abzufragen (wie der Name schon sagt), und die Antwort darauf sollte immer einem bestimmten Schema folgen (Google ist euer Freund für Beispiele).
 
 
 
@@ -59,6 +61,8 @@ Versuchen lohnt sich trotzdem! Mit guter Vorbereitung und viel Glück schaffen e
 Passt eure Bewerbung gut an, übt mit Freunden das Gespräch, sprecht mit Alumni aus dem Programm (wenn ihr welche kennt), macht euch schlau über die Organisation wo ihr hinwollt und dann kanns was werden.
 
 Also: **Viel Glück!** 
+
+---
 
 BTW, ich wurde für das UN Department of Economic and Social Affairs in New York angenommen, also falls ihr dazu fragen habt, schickt mir gerne ne Mail. Und auch sonst gerne falls ihr noch ne Frage habt! 
 

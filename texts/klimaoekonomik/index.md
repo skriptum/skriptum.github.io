@@ -9,6 +9,8 @@ tags:
 permalink: texts/klimaoekonomik
 ---
 
+![Nordhaus Nobelpreisvorlesungslide](featured.jpg)
+
 *Die hier dargestellte Meinung entstand vor allem in Vorbereitung und Auseinandersetzung mit Professor Pies von der MLU Halle. Ich hatte ihn in der Vorlesung für die alleinstehende These von Nordhaus kritisiert, woraufhin er mich zu einem Einzelgespräch einlud.*
 
 ## Die 4-Grad These
@@ -16,11 +18,8 @@ permalink: texts/klimaoekonomik
 
 > The optimal scenario for climate change policies results in 4° global warming
 >
-> *William Nordhaus*
+> ***William Nordhaus***, Nobel price lecture
 
-Exzerpt aus der Nobelpreisvorlesung von William Nordhaus
-
-![Nordhaus Nobelpreisvorlesungslide](featured.jpg)
 
 ***Beim erstmaligen Lesen dieser Aussage*** konnte ich meinen Augen kaum trauen. Es würde doch sicher niemand ernsthaft behaupten, dass dieses Szenario dass für die Menschheit optimale ist. Wo wir uns doch mit dem Vertrag von Paris 2015 darauf geeinigt haben, die globale Erwärmung auf 1,5° beziehungsweise 2° zu begrenzen. 
 

@@ -1,7 +1,7 @@
 ---
-title: Ukraine bei Nacht
+title: Ukraine by Night
 date: 2025-04-02
-description: Eine Anleitung für den ukraininischen Nachtzug
+description: What its like on the the famous ukranian night train from Lwiw to Kyiv (german)
 toc: false
 tags:
   - travel
