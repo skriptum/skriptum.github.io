@@ -100,24 +100,25 @@ $table-border-color: $highlight-color;
 
 header:empty {
   border-bottom: 0px solid $dark !important; 
+  padding: 0 !important;
   // remove the line below the title block if there is no title etc
 }
 
 // make the banner darker 
 
 .quarto-title-banner.page-full {
-  background-color: $primary-color-shade;
-  color: $font-color
+  background-color: $dark;
+  color: invert($font-color)
 }
 
 #title-block-header.page-full {
   margin-block-start: 3em;
-  background-color: $primary-color-shade;
+  background-color: $dark;
   border-bottom: 0px;
-  color: $font-color ;
+  color: invert($font-color);
 
   h1 {
-    color: $font-color;
+    color: invert($font-color);
   }
 }
 
@@ -217,6 +218,17 @@ strong em {
   font-family: $font-family-smallcaps;
   font-weight: 500;
   font-style: normal;
+}
+
+// Drop Cap for first letter of Smallcaps
+strong em code {
+  font-size: 3rem;
+  font-weight: 700;
+  float: left;
+  line-height: 0.65;
+  margin: 0.1em 0.1em 0.2em 0em;
+  background-color: $primary-color !important;
+  font-family: $font-family-headings;
 }
 
 hr {

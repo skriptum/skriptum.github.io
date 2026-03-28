@@ -10,7 +10,7 @@ description: |
 
 ![José Zanetti: Mankind’s Struggle for a Lasting Peace (zentrales Wandgemälde im UNHQ in New York)](peace.jpg)
 
-Ein Praktikum bei ner internationalen Organisation, und dann auch noch dafür bezahlt werden? Besser kanns nicht klingen, und gibts auch, mit dem [Carlo-Schmid-Programm](https://www.studienstiftung.de/carlo-schmid). Weil ich vor meiner Bewerbung erfolglos nach Erfahrungsberichten aus dem Bewerbungsprozess gesucht habe, gibts hier eine kleine Gedankensammlung. Ich kannte niemanden davor, und mir hätte das vermutlich geholfen ein bisschen mehr dazu zu wissen (hat aber ohne auch geklappt).
+***`E`in Praktikum bei*** ner internationalen Organisation, und dann auch noch dafür bezahlt werden? Besser kanns nicht klingen, und gibts auch, mit dem [Carlo-Schmid-Programm](https://www.studienstiftung.de/carlo-schmid). Weil ich vor meiner Bewerbung erfolglos nach Erfahrungsberichten aus dem Bewerbungsprozess gesucht habe, gibts hier eine kleine Gedankensammlung. Ich kannte niemanden davor, und mir hätte das vermutlich geholfen ein bisschen mehr dazu zu wissen (hat aber ohne auch geklappt).
 
 
 
