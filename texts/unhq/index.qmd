@@ -3,123 +3,82 @@ title: What it's like to be an intern at the UN in New York
 math: false
 description: "Looking back at 6 Months  at UNHQ: the good, the bad, the ugly."
 date: 2026-03-15
-toc-location: right
+toc-location: body
 title-block-banner: true
-image: "delegates.jpg"
 ---
-
-
-
-
-
-## The Work
-
-![Delegates Lounge (1964) [[UN Photo](https://dam.media.un.org/Package/2AM9LOT_4)]](delegates.jpg)
-
-- depends really on your department, office, team even
-- i dont allow myself to comment on workload / responseibilites, differs even among interns
-
-generally
-- lot of tasks (luckily not my role) are note-taking and summarisation tasks
-- aka you sit in sessions of the Security Council, listen to important people speak and report back to your organisation / department
-- can be quite dull, but its the sausage making process (ref) of international politics
-
-to keep in mind:
-- UN = dire financial situation!
-- some countries just dont pay their dues (or very late)
-- and there is a round of budget cuts every second month it feels like
-- a lot of resources are just not there
-    - many interns did not get a work laptop, had to use their own
-    - some didnt even get a UN email adress (lookning at you DESA)
-- and if youre hoping for a follow up position, you may have to stop dreaming
-- its very tough at the moment, not a lot of interns got one
-  - and if they did, it was very short contract lengths (ca 3 months)
-- bonus of the situation: interns get a lot more tasks and responsibilities, because there is just too much work for too few hands
-
-this sounds bad:
-- its still a privilege to be working in this environment in the heart of international politics
-- just important to know before getting there - anchor expecations to reality
-- the UN is not always this large bureacratic institution, especially your direct coworkers doing wonderful work desprite these constraints
-
-
-## The Pay
 
 ![Henri Matisse, Polynesia: Le Ciel (39th Floor of the UNHQ)](polynesia.jpg)
 
-you probably know this by now: there is no pay. Zero. Nada. Niente. 
-- interns are the cheap expendable workforce keeping the UN running
-- shameful for an organisation priding themselves on values, but not even paying fair wages
 
-- I was lucky to get a scholarship by the german government (if youre german, you can read more about the application process [here](../carloschmid/))
-- some other states offer something similar to their citizens (china, usa)
-- I got ca 2200$ per month, which can be enough to survive in this city
-  - you can definitely live on less
-  - and obviously on more
-- it really depends on your rent and how much you cook at home
-- i would suggest having some buffer in case of unexpected AUSGABEN
+***`F`inding information on what its like*** to work at the UN is quite difficult, if you dont already know someone who did it. I struggled a bit before I came here, so this is my first-hand report about my experience in New York, for people who are in a similar position. Take all of it with a grain of salt, and dont worry if many things sound a bit negative here. 
 
+## The Work
 
-tips:
-- fair fares NYC: subsidized subway transport on the MTA, 50% off
-- many SROs in the UES and UWS are quite cheap and are well located to reach the UN
-- the city has a lot to offer without money 
-    -  get a NYC ID card for a lot of discounts everywhere
+![Delegates Lounge (1964) [UN Photo ID: UN7772252]](delegates.jpg)
+
+Obviously, the workload really depends on your department, office, team even. 
+I wont allow myself to comment on workload / responsibilites, differs even among interns in the same team.
+
+Generally, a lot of tasks (luckily not my role) are note-taking and summarisation tasks, aka you sit in sessions of the Security Council, listen to important people speak and report back to your organisation / department. It can be quite dull, but its the sausage making process ([bismarck](https://quoteinvestigator.com/2010/07/08/laws-sausages/)?) of international laws and politics.
+
+One thing to keep in mind: The UN is in a very dire financial situation at the moment! Some countries (cough: USA) dont pay their dues (or very late).
+That leads to budget cuts every second month (it feels like) and some rough spots everywhere. A lot of resources are just not there, many interns did not get a work laptop and had to use their own, some didnt even get a UN email adress (looking at you, DESA). And if youre hoping for a follow up position, its very tough at the moment. Not a lot of interns got one, and if they did, it was on very short contracts (ca 3 months). One advantage of the situation: interns get a lot more tasks and responsibilities, because there is just too much work for too few hands :)
+
+This sounds gloomy, but its still an immense privilege to be working in this environment in the heart of international politics. It is just important to know before getting there to anchor your expecations in reality. 
+
+Remember, the UN is not always this slow bureacratic institution, especially your direct coworkers are probably doing wonderful work despite these constraints and try to keep the spirit up in the current situation. My organisation did wonderful work with the limited resources they had, and I had a great time!
+
+---
+
+## The Pay
+
+![Construction of UN Headquarters (1947) [UN Photo ID: UN7771689]](worker.jpg)
+
+***You probably know this by now***: there is no pay. Zero. Nada. Niente. Being an intern sometimes feels like you are the cheap expendable workforce keeping the UN running.
+Its quite shameful for an organisation priding themselves on values like Decent Work (SDG 8), while their full-time staff earns exorbitant wages. 
+
+I was lucky to get a scholarship by the german government (if youre german, you can read more about the application process [here](../carloschmid/)), and some other states offer something similar to their citizens. 
+
+I would plan with at least 2000$ of monthly expenses to live in this city. You can definitely survive on less - and obviously on more - in the end, it really depends on your rent and how much you cook at home. And I would suggest having some buffer in case of unexpected expenses (they always come up).
+
+Some money saving tips:
+
+- Apply for Fair Fares NYC: Its subsidized subway transport on the MTA, with 50% off the regular fare.
+- There are many SROs in the Upper East Side (e.g Kolping) and Upper West Side (e.g International House) are quite cheap and are well located to get to the UN
+- The city has a lot to offer without money, ideally get a NYC ID card for a lot of discounts everywhere (Culturepass, Library, Museums etc)
+
+---
 
 ## The People
 
-A
+![Rufino Tamayo: La Fraternidad (1st Floor of UNHQ)](people.jpg)
 
-![Rufino Tamayo: La Fraternidad (hanging in the UNHQ Entryhall)](people.jpg)
+***Of course***, not paying your interns inevitably leads to a preselection of people who work there. There are many upper class people who can afford to go without pay in one of the most expensive cities in the world. Often times, they are recruited from very good universities (think Science Po, Columbia etc), where it is almost expected that you do something like this. BUT: There is an immense range of people there, from all over the world, from a lot of different backgrounds, and not everyone is stuck up.
 
-not paying your interns ofc leads to a selection of people who work there
-- upper class / rich kids who can afford to go without pay in one of the most expensive cities in the world
-- often times from very good universities (think Science Po, Columbia etc), where it is almost expected that you do something like this
-- but there is quite a range of people there
-    - from all over the world, from a lot of different backgrounds
+Dont worry about it too much, you almost always have other interns on your floor you can connect with, and there are happy hours / free events where you meet a lot of different people.
 
-- wouldnt worry about it too much
-- you almost always have other interns on your floor you can connect with
-- and happy hours / free events where you meet a lot of other people
+---
 
 ## Interlude: The Food
 
-![Eating Facilities at UNHQ (1957) [[UN Photo]()]](dining.jpg)
+![Eating Facilities at UNHQ (1957) [UN Photo ID: UN7443778]](dining.jpg)
 
-just a quick side rant
+***This is just a quick side rant***. There used to be a beautiful restaurant for UN staff on the first floor-  very elegant and better food - which was closed during the pandemic and never reopened (budget cuts).
 
-- there used to be a beautiful restaurant for UN staff on the first floor
-    - very elegant, very good food
-- closed during the pandemic, and never reopened (budget cuts)
-- now, theres the riverview cafeteria
-    - food is meh, prices are exorbitant, and it feels like youre having lunch in a multifunctional conference room
+Now, theres the Riverview Cafeteria: the food is meh, prices are exorbitant, and it feels like youre having lunch in a multifunctional conference room. And if you decide to leave the UN for lunch, youre in midtown, the worst neighboorhood for good things to eat. There is a large selection of shops offering slop salad bowls for burnt out office workers, but not much else. The only bright spot: the Amish market with cheap pizza, salads and sushi. But then you have to go back trough security, which can take its time (especially in tourist season where everyone wants to see the UN).
 
-- if you leave the UN, youre in midtown, the worst neighboorhood for good things to eat
-- a large selection of shops offering slop salad bowls for burnt out office workers
-- only Lichtblick: the amish market with cheap pizza, salads and sushi
-  - but then you have to go back trough security, which can take its time (especially in tourist season where everyone wants to see the city)
+---
 
 ## The City
 
 ![Left: Louis Faurer, 52nd Street Pier Looking Towards the United Nations Building (1984) [[NGA.gov](https://www.nga.gov/artworks/222079-52nd-street-pier-looking-towards-united-nations-building-new-york-new-york)] <br> Right: Robert Frank, United Nations Building (1954) [[NGA.gov](https://www.nga.gov/artworks/89446-united-nations-building-new-york-city-no-number)]](building.png)
 
-and there is a reason for that
+***I dont need to tell you***, new york is just crazy. In good as well as bad ways. The city so much to offer, (dive) bars, clubs, museums, politics, and its not always expensive. Examples: the skint newsletter (free NY events), culturepass (for free museum entry), free gyms and pools (recreation centers), great public libraries (NYPL), ... Youll have to experience the magic of this city for yourself.
 
-- i dont need to tell you, new york is just crazy
-- in good and bad ways
-- you gotta see for yourself, but its so worth it
-
-- so much to offer, (dive) bars, clubs, museums, politics
-- does not have to be expensive 
-  - for a tase: the skint newsletter, culturepass (for free museum entry), free gyms and pools (recreation centers), great public libraries (NYPL), i could go on and on and on
-
+---
 
 ## The End
 
-All in all, a great experience
-- considerable financial barrier
-- but if you can overcome that (please dont sell a liver for that though)
-- so worth it
-- try to apply 
-    - i cant help you with that, because what the hiring managers look for is so different for every position
+![José Zanetti: Mankind’s Struggle for a Lasting Peace (2rd Floor of UNHQ)](peace.jpg)
 
-Good Luck!
+***All in all, it was a great experience!*** There is a considerable financial barrier, but if you can overcome that (please dont sell your liver for that), it's so worth it. Try to apply (I cant help you with that, because what the hiring managers look for is so different in every position) and maybe youre lucky.
