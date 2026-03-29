@@ -29,7 +29,7 @@ Am meisten Planung bedarf der Sprachnachweis auf C-Niveau. Wegen fehlendem Sprac
 
 Dann das typische Zeug: Lebenslauf und Motivationsschreiben. Wie immer ordentlich auf jede einzelne Stelle anpassen und öfter mal drüberlesen lassen von anderen. Empfehlenswert ist einmal tiefer in die Website der Abteilung in der Organisation einzutachen, die ihr spannend findet. Ich hab damals ein paar Reports von meiner Stelle gelesen um zu verstehen wo ihre Prioritäten liegen und das dann auch erwähnt.
 
-Nur zur Info: nur die englischen Unterlagen kommen bei der Organisation an, die deutschen sind für den DAAD. Es kann also sinnvoll sein, in beiden jeweils andere Adressaten bzw etwas unterschiedliche Inhalte zu erwähnen, falls ihr z.B. für das englische mehr eure Skills in den Vordergrund stellen wollt und im deutschen mehr wie es in euren Werdegang passt (Und wenn ihr euch auf 2 Stellen bewerbt, auch 2 Motivationschreiben separat).
+Nur zur Info: nur die englischen Unterlagen kommen bei der Organisation an, die deutschen sind für den DAAD. Es kann also sinnvoll sein, in beiden jeweils andere Adressaten bzw etwas unterschiedliche Inhalte zu erwähnen, falls ihr z.B. für das englische mehr eure Skills in den Vordergrund stellen wollt und im deutschen mehr wie es in euren Werdegang passt.
 
 Untypisch für Bewerbungen ist die Zusammenfassung der Seminararbeiten, die der DAAD fordert. War mir fremd, aber geht eigentlich ganz einfach. Auch hier lohnt es sich, bisschen langfristig drüber nachzudenken, welche sich eignen und welche erwähnenswert sind. Und dann aus den Modulen Dinge erwähnen, die zur Stelle passen oder gefordert wurden (oder von denen ihr wisst das die Organisation drauf schaut). Schadet bestimmt auch nicht wenn man in dem Kontext gleich mal das Enderbnis verlinkt. 
 
@@ -49,9 +49,7 @@ Insgesamt ist es halt wie andere Bewerbungen. Aufeinander abgestimmte Dokumente,
 
 Es werden in den Interviews auch Sprachkompetenzen getestet, heißt es wird zwischendurch einfach zwischen Englisch und Deutsch gewechselt (potentiell auch anderen Sprachen aus eurer Bewerbung). Darauf sollte man vorbereitet sein und ein bisschen im Sprachfluss drin, damit man davon nicht komplett überrollt wird.
 
-Eine Frage die mich aus dem Konzept geworfen hat: "Was ist dein Lieblings SDG?" (wtf). Es wird also auch zu Dingen aus dem Kontext von internationalen Organisationen insgesamt gefragt, den man also ein bisschen kennen sollte. Sonst waren sehr viele individuelle Fragen dabei, die schwer vorhersehbar sind. (ChatGPT gibt übrigens sehr gute Übungsfragen auf Basis euer Unterlagen aus)
-
-
+Eine Frage die mich aus dem Konzept geworfen hat: "Was ist dein Lieblings SDG?" (wtf). Es wird also auch zu random Dingen aus dem Kontext von internationalen Organisationen insgesamt gefragt, den man also ein bisschen kennen sollte. Sonst waren sehr viele individuelle Fragen dabei, die schwer vorhersehbar sind. (ChatGPT gibt btw gute Übungsfragen auf Basis euer Unterlagen aus)
 
 ## Die Antwort
 
@@ -100,7 +98,7 @@ Kurz einmal ein Überblick über die Zahlen (alles gerundet):
 
 **Wie waren so deine Erfahrungen, wie war die Arbeit, etc?**
 
-Hab ich [hier](../unhq) mehr drüber geschrieben. Aber insgesamt hatten ca 95% der Kohorte ne gute Zeit (würd ich mal so grob schätzen). Viele Probleme hingen mit den derzeitigen Kürzungsrunden zusammen, das teilweise einfach die Supervisors gefeuert wurden, und dann niemand mehr so richtig zuständig war. 
+Hab ich [hier](../unhq) mehr drüber geschrieben. Insgesamt hatten ca 95% der Kohorte ne gute Zeit (würd ich mal so grob schätzen). Viele Probleme hingen mit den derzeitigen Kürzungsrunden zusammen, das teilweise einfach die Supervisors gefeuert wurden, und dann niemand mehr so richtig zuständig war. 
 
 Aber wie immer, man kann nichts generalisieren. Manche haben sich komplettt abgearbeitet, andere hattten ne super entspannte Zeit. Manche mit tollen Chefs, andere mit richtig nervigen. Man weiß es erst, bis man da ist (oder man fragt die Menschen der Jahre davor)
 
@@ -111,5 +109,3 @@ Aber wie immer, man kann nichts generalisieren. Manche haben sich komplettt abge
 BTW, ich wurde für das UN Department of Economic and Social Affairs in New York angenommen, also falls ihr dazu fragen habt, schickt mir gerne ne Mail. Und auch sonst gerne, falls ihr noch ne Frage habt! 
 
 *meine Mail:* [hi@mdwm.org](mailto:hi@mdwm.org) 
-
-*mein [LinkedIn](https://www.linkedin.com/in/marten-walk/) (bitte nicht darüber schreiben, ich bin viel zu selten da)*
