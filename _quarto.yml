@@ -3,11 +3,8 @@ project:
 
 website:
   favicon: images/favicon.ico
-  # image: images/preview.jpg
   open-graph: 
     site-name: "mdwm"
-    # description: "quantitative econ student interested in monetary theory, inequality and the history of economic thought"
-    # image: images/preview.jpg
   site-url: https://mdwm.org/
   search: false
   navbar:
