@@ -6,6 +6,7 @@ toc: true
 permalink: texts/carloschmid
 description: |
   Wie kommt man durch den Bewerbungsprozess für Praktika in internationalen Organisationen?
+title-block-banner: true
 ---
 
 ![José Zanetti: Mankind’s Struggle for a Lasting Peace (zentrales Wandgemälde im UNHQ in New York)](peace.jpg)
@@ -62,9 +63,52 @@ Passt eure Bewerbung gut an, übt mit Freunden das Gespräch, sprecht mit Alumni
 
 Also: **Viel Glück!** 
 
+## Frequently Asked Questions
+
+Ich sammel hier mal ein paar Fragen, die ich per Mail bekommen habe. Keine Garantie für Vollständigkeit / Richtigkeit!
+
+**Macht es einen Unterschied, ob man sich auf eine oder zwei Stellen bewirbt?**
+
+Nein. Aber dann auch 2 separate Schreiben!
+
+**Verfällt die zweite Wahl, sobald man für die erste Wahl angenommen wurde?**
+
+Soweit ich das verstanden habe, ja.
+
+**Welche Stellen sind besonders beliebt? bzw wo sind die Chancen am schlechtesten / besten?**
+
+Ändert sich natürlich von Jahr zu Jahr. Besonders beliebt in unserem Jahr waren alle Stellen in New York, Brüssel und Paris (logisch). Hängt aber auch von Stadt zu Stadt ab, bspw bei der Nato haben sich bis zu 30 Leute auf eine Stelle beworben, auf andere Stellen innerhalb der gleichen Orga nur 4. Man kann viele Hypothesen aufstellen, aber letztendlich sollte das niemanden davon abhalten, sich bei einer passenden Position zu bewerben. 
+
+**Kann man vom Stipendium leben?**
+
+Depends. Generell ist es so, dass man mit dem CSP die höchste Stipendienrate bekommt, die der DAAD anbietet (Doktorand:innenhöhe). Heißt, es ist schon darauf ausgelegt, dass man ok durchkommt. 
+
+Hängt natürlich extrem davon ab, in welcher Stadt man landet. Aber selbst in New York (meine Stelle) ging es, da die meisten super Glück hatten mit ner Miete unter 1000$ und der Wechselkurs uns in die Hände gespielt hat. Wird man davon reich: definitiv nicht! Hatten wir trotzdem Spaß und ein Leben außerhalb von Arbeit: Ja.
+
+**Wie sind die Chancen so ganz generell?**
+
+Kurz einmal ein Überblick über die Zahlen (alles gerundet):
+
+- Bewerbungen gesamt: ca 950 
+  - Aussortiert weil unvollständig: 250 (vermeidbar!)
+- Vorauswahl: folglich 700
+  - an Erstwahl weitergeleitet: 500  
+  - an Zweitwahl weitergeletet: 70
+  - der Rest: raus
+- Interviews: keine Zahlen
+- endgültige Stipendien: 100
+
+**Wie waren so deine Erfahrungen, wie war die Arbeit, etc?**
+
+Hab ich [hier](../unhq) mehr drüber geschrieben. Aber insgesamt hatten ca 95% der Kohorte ne gute Zeit (würd ich mal so grob schätzen). Viele Probleme hingen mit den derzeitigen Kürzungsrunden zusammen, das teilweise einfach die Supervisors gefeuert wurden, und dann niemand mehr so richtig zuständig war. 
+
+Aber wie immer, man kann nichts generalisieren. Manche haben sich komplettt abgearbeitet, andere hattten ne super entspannte Zeit. Manche mit tollen Chefs, andere mit richtig nervigen. Man weiß es erst, bis man da ist (oder man fragt die Menschen der Jahre davor)
+
+**Falls euch noch eine Frage auf dem Herzen brennt, schreibt mir gerne eine Mail! Ich versuchs so gut wie möglich zu beantworten.**
+
 ---
 
-BTW, ich wurde für das UN Department of Economic and Social Affairs in New York angenommen, also falls ihr dazu fragen habt, schickt mir gerne ne Mail. Und auch sonst gerne falls ihr noch ne Frage habt! 
+BTW, ich wurde für das UN Department of Economic and Social Affairs in New York angenommen, also falls ihr dazu fragen habt, schickt mir gerne ne Mail. Und auch sonst gerne, falls ihr noch ne Frage habt! 
 
 *meine Mail:* [hi@mdwm.org](mailto:hi@mdwm.org) 
 

@@ -46,7 +46,7 @@ $table-border-color: $highlight-color;
 
 // Navbar and Footer
 .navbar {
-  font-family: $font-family-headings;
+  font-family: $font-family-text;
   font-weight: 400;
   position: relative;
   margin: 0vw 5vw 0vw 5vw;
@@ -183,6 +183,7 @@ nav:not(.toc-active)#TOC {
   background-color: $primary-color-shade;
   border: 0px solid $dark;
   border-radius: 5px;
+  line-height: 1.2em;
   .listing-date {
     font-family: $font-family-headings;
     color: $highlight-color;
@@ -202,15 +203,16 @@ nav:not(.toc-active)#TOC {
 
 body {
   font-family: $font-family-text;
-  font-weight: 250;
+  font-weight: 300;
   line-height: 1.35em;
   font-size: 1em;
 }
 
 h1,h2,h3,h4,h5,h6 {
   font-family: $font-family-headings;
-  font-weight: 600;
-  border-bottom: 0 !important;
+  font-weight: 500;
+  border-bottom: 0px !important;
+  color: $font-color;
 }
 
 //Smallcaps for em tags in strong tags
@@ -278,7 +280,7 @@ pre {
 .blockquote {
   border-left: 5px solid $highlight-color;
   padding-left: 1rem;
-  font-family: $font-family-text;
+  font-family: $font-family-headings;
   border-radius: .25rem;
   background-color: $primary-color-shade;
   text-align: center;
