@@ -15,6 +15,7 @@ listing:
     - /texts/kyivtrain/
     - /texts/amtrak/
     sort: "date desc"
+    max-items: 3
     type: grid
     fields: [image, date, title, description] 
   - id: listing-econ
@@ -22,25 +23,30 @@ listing:
     - /texts/klimaoekonomik/
     - /texts/capitalorder/
     sort: "date desc"
+    max-items: 3
+    type: grid
+    fields: [image, date, title, description]
+  - id: listing-notes
+    contents: 
+    - ./notes/
+    - "!./notes/index.qmd"
+    max-items: 3
+    sort: "date desc"
     type: grid
     fields: [image, date, title, description]
 ---
 
 ![Picasso's Guernica](images/guernica.jpg)
 
-## Hi there
+***`H`ey there***! you've stumbled upon my corner of the internet. Here, I collect some random thoughts on things friends and strangers ask me. Sometimes, I'm too lazy to answer directly and point them here instead. 100% free off AI-slop, ads, or cookies. 
 
-you've stumbled upon my corner of the internet. i collect some random thoughts on things friends (and strangers) ask me about, which I am too lazy to answer directly, instead pointing them here. 
-
-you can find out more about me on my main site: [***martenw.com***](https://martenw.com)
-
-_No AI-slop, no ads, no cookies._
+You can find out more about me on my main site: [***martenw.com***](https://martenw.com). 
 
 ---
 
 ### fancy intern stuff
 
-This is what most people ask for. I had the crazy opportunity to be an intern at the UN in NY, here's how I liked it (it was a fever dream; in a good way) and how I got there (so that different people get the chance to go there).
+This is what most people ask for. I had the crazy opportunity to be an intern at the UN in NY, here's how I liked it (it was a fever dream; in a good way) and how I got there.
 
 ::: {#listing-intern}
 
@@ -70,5 +76,5 @@ Well, sometimes studying economics, with its unrealistic models and bad policy a
 
 ### notes
 
-links and [notes](notes/) on random things I found on the internet
+links to random things I found on the internet. ***[more](notes/) →***
 

@@ -36,8 +36,8 @@ $headings-color: $font-color;
 
 $navbar-bg: $primary-color;
 $navbar-fg: $highlight-color;
-$footer-bg: $primary-color;
-$footer-fg: $font-color;
+$footer-bg: $font-color;
+$footer-fg: $primary-color;
 
 $table-border-width: 0px;
 $table-border-color: $highlight-color;
@@ -234,11 +234,31 @@ strong em code {
 }
 
 hr {
-  margin: 2em 20vw 2em 20vw;
-  border-top: 1px solid $dark;
-  border-bottom: 1px solid $dark;
-  height: 4px;
-  opacity: 1;
+  // margin: 2em 20vw 2em 20vw;
+  // border-top: 1px solid $dark;
+  // border-bottom: 1px solid $dark;
+  // height: 4px;
+  // opacity: 1;
+
+  overflow: visible; /* For IE */
+  padding: 0;
+  border: none;
+  border-top: medium double $font-color;
+  color:$font-color;
+  text-align: center;
+  // margin at sides to make it shorter than the text width
+  margin: 2em 10vw 2em 10vw;
+  opacity: 0.8;
+
+  &:after {
+    content: "§";
+    font-family: $font-family-headings;
+    display: inline-block;
+    position: relative;
+    top: -0.9em;
+    padding: 0 0.25em;
+    background: $primary-color;
+  }
 }
 
 button {
