@@ -65,6 +65,19 @@ Also: **Viel Glück!**
 
 Ich sammel hier mal ein paar Fragen, die ich per Mail bekommen habe. Keine Garantie für Vollständigkeit / Richtigkeit!
 
+**Wie sind die Chancen so ganz generell?**
+
+Kurz einmal ein Überblick über die Zahlen (alles gerundet):
+
+- Bewerbungen gesamt: ca 950 
+  - Aussortiert weil unvollständig: 250 (vermeidbar!)
+- Vorauswahl: folglich 700
+  - an Erstwahl weitergeleitet: 500  
+  - an Zweitwahl weitergeletet: 70
+  - der Rest: raus
+- Interviews: keine Zahlen, da von den Organisationen selber durchgeführt
+- endgültige Stipendien: 100
+
 **Macht es einen Unterschied, ob man sich auf eine oder zwei Stellen bewirbt?**
 
 Nein. Aber dann auch 2 separate Schreiben!
@@ -83,24 +96,15 @@ Depends. Generell ist es so, dass man mit dem CSP die höchste Stipendienrate be
 
 Hängt natürlich extrem davon ab, in welcher Stadt man landet. Aber selbst in New York (meine Stelle) ging es, da die meisten super Glück hatten mit ner Miete unter 1000$ und der Wechselkurs uns in die Hände gespielt hat. Wird man davon reich: definitiv nicht! Hatten wir trotzdem Spaß und ein Leben außerhalb von Arbeit: Ja.
 
-**Wie sind die Chancen so ganz generell?**
-
-Kurz einmal ein Überblick über die Zahlen (alles gerundet):
-
-- Bewerbungen gesamt: ca 950 
-  - Aussortiert weil unvollständig: 250 (vermeidbar!)
-- Vorauswahl: folglich 700
-  - an Erstwahl weitergeleitet: 500  
-  - an Zweitwahl weitergeletet: 70
-  - der Rest: raus
-- Interviews: keine Zahlen
-- endgültige Stipendien: 100
-
 **Wie waren so deine Erfahrungen, wie war die Arbeit, etc?**
 
 Hab ich [hier](../unhq) mehr drüber geschrieben. Insgesamt hatten ca 95% der Kohorte ne gute Zeit (würd ich mal so grob schätzen). Viele Probleme hingen mit den derzeitigen Kürzungsrunden zusammen, das teilweise einfach die Supervisors gefeuert wurden, und dann niemand mehr so richtig zuständig war. 
 
 Aber wie immer, man kann nichts generalisieren. Manche haben sich komplettt abgearbeitet, andere hattten ne super entspannte Zeit. Manche mit tollen Chefs, andere mit richtig nervigen. Man weiß es erst, bis man da ist (oder man fragt die Menschen der Jahre davor)
+
+**Wie siehts aus mit Einreiseproblemen in die USA?**
+
+Als Praktikant:in der UN bekommt man für die USA ein G-4 Visum für Angestellte internationaler Organisationen. Die Einreise ist damit sehr easy (auch wenn man sich natürlich nie sicher sein kann ob das so bleibt). Man musste auch keinerlei Checks über sich ergehen lassen, sondern hat seinen Pass per Post an die Botschaft geschickt und ca 3 Wochen später zurückbekommen.
 
 **Falls euch noch eine Frage auf dem Herzen brennt, schreibt mir gerne eine Mail! Ich versuchs so gut wie möglich zu beantworten.**
 
