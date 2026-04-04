@@ -41,7 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-da259e06d7f771e9cfc9f5cb611c1604.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-5dcc078f5b735f53873f831a10976223.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -130,6 +130,34 @@ ul.task-list li input[type="checkbox"] {
 
     window['quarto-listings'] = window['quarto-listings'] || {};
     window['quarto-listings']['listing-listing-econ'] = new List('listing-listing-econ', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing-notes .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing-notes'] = new List('listing-listing-notes', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -244,18 +272,15 @@ window.Quarto = {
 <figcaption>Picasso’s Guernica</figcaption>
 </figure>
 </div>
-<section id="hi-there" class="level2">
-<h2 class="anchored" data-anchor-id="hi-there">Hi there</h2>
-<p>you’ve stumbled upon my corner of the internet. i collect some random thoughts on things friends (and strangers) ask me about, which I am too lazy to answer directly, instead pointing them here.</p>
-<p>you can find out more about me on my main site: <a href="https://martenw.com"><strong><em>martenw.com</em></strong></a></p>
-<p><em>No AI-slop, no ads, no cookies.</em></p>
+<p><strong><em><code>H</code>ey there</em></strong>! you’ve stumbled upon my corner of the internet. Here, I collect some random thoughts on things friends and strangers ask me. Sometimes, I’m too lazy to answer directly and point them here instead. 100% free off AI-slop, ads, or cookies.</p>
+<p>You can find out more about me on my main site: <a href="https://martenw.com"><strong><em>martenw.com</em></strong></a>.</p>
 <hr>
 <section id="fancy-intern-stuff" class="level3">
 <h3 class="anchored" data-anchor-id="fancy-intern-stuff">fancy intern stuff</h3>
-<p>This is what most people ask for. I had the crazy opportunity to be an intern at the UN in NY, here’s how I liked it (it was a fever dream; in a good way) and how I got there (so that different people get the chance to go there).</p>
+<p>This is what most people ask for. I had the crazy opportunity to be an intern at the UN in NY, here’s how I liked it (it was a fever dream; in a good way) and how I got there.</p>
 <div id="listing-listing-intern" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1773532800000" data-listing-file-modified-sort="1774819527287" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1059">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1773532800000" data-listing-file-modified-sort="1775315102655" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1059">
 <a href="./texts/unhq/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="texts/unhq/polynesia.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -277,7 +302,7 @@ Mar 15, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1753056000000" data-listing-file-modified-sort="1774819527261" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1372">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1753056000000" data-listing-file-modified-sort="1775315102633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="7" data-listing-word-count-sort="1372">
 <a href="./texts/carloschmid/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="texts/carloschmid/peace.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -309,7 +334,7 @@ Jul 21, 2025
 <p>I just hate planes; the whole experience with extremely small seats, ugly airports and an abysmal environmental footprint. And because society has not invented a better method of long-distance transportation yet, I am bound to take a train everywhere I want to go.</p>
 <div id="listing-listing-train" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1774742400000" data-listing-file-modified-sort="1774819527259" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1774742400000" data-listing-file-modified-sort="1775315102631" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="3">
 <a href="./texts/amtrak/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="texts/amtrak/amtrak.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -328,7 +353,7 @@ Mar 29, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1743552000000" data-listing-file-modified-sort="1774819527272" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="530">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1743552000000" data-listing-file-modified-sort="1775315102645" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="530">
 <a href="./texts/kyivtrain/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="texts/kyivtrain/train.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -347,7 +372,7 @@ Apr 2, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1706745600000" data-listing-file-modified-sort="1774819527280" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1157">
+<div class="g-col-1" data-index="2" data-listing-date-sort="1706745600000" data-listing-file-modified-sort="1775315102647" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1157">
 <a href="./texts/maroccobytrain/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="texts/maroccobytrain/Posters.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -376,7 +401,7 @@ Feb 1, 2024
 <p>Well, sometimes studying economics, with its unrealistic models and bad policy advice, just drives you mad (<em>while at other times it can be beautiful</em>). These are more about the first part:</p>
 <div id="listing-listing-econ" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1682553600000" data-listing-file-modified-sort="1774819527260" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="670">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1682553600000" data-listing-file-modified-sort="1775315102633" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="670">
 <a href="./texts/capitalorder/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="texts/capitalorder/featured.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -395,7 +420,7 @@ Apr 27, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1654992000000" data-listing-file-modified-sort="1774819527262" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1002">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1654992000000" data-listing-file-modified-sort="1775315102635" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1002">
 <a href="./texts/klimaoekonomik/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top"><img loading='lazy' src="texts/klimaoekonomik/featured.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
@@ -421,14 +446,74 @@ Jun 12, 2022
 </section>
 <section id="notes" class="level3">
 <h3 class="anchored" data-anchor-id="notes">notes</h3>
-<p>links and <a href="notes/">notes</a> on random things I found on the internet</p>
+<p>links to random things I found on the internet. <strong><em><a href="notes/">more</a> →</em></strong></p>
 
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing-notes">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1772323200000" data-listing-file-modified-sort="1775315102627" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="71">
+<a href="./notes/northkorea.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img loading='lazy' src="notes/northkorea.webp" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+North Korea: It might not get any weirder than this
+</h5>
+<div class="card-text listing-description delink">
+https://restofworld.org/2013/sophie-in-north-korea/ [archive]
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Mar 1, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1767312000000" data-listing-file-modified-sort="1775315102620" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="69">
+<a href="./notes/indie-web.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img loading='lazy' src="notes/indie-web.png" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+A website to destroy all websites
+</h5>
+<div class="card-text listing-description delink">
+https://henry.codes/writing/a-website-to-destroy-all-websites/ [archive]
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jan 2, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1763942400000" data-listing-file-modified-sort="1775315102620" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="78">
+<a href="./notes/GBI.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top"><img loading='lazy' src="notes/GBI.jpg" style="height: 150px;"  class="thumbnail-image card-img"/></p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+When Kylie Minogue Was a Font
+</h5>
+<div class="card-text listing-description delink">
+https://abcdinamo.com/news/german-bold-italic [archive]
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 24, 2025
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
