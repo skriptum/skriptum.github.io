@@ -8,9 +8,9 @@ website:
   site-url: https://mdwm.org/
   search: false
   navbar:
-    logo: images/logo.webp
-    logo-alt: "logo"
-    # title: "martens"
+    logo: images/mdwm-skiwar.png
+    logo-alt: "mdwm"
+    # title: "marten's blog"
     collapse-below: lg
     right: 
       - text: "martenw.com →"
@@ -18,17 +18,9 @@ website:
     left:
       - text: "← home"
         href: ./
-
-
   page-navigation: true
-
   back-to-top-navigation: false
-
   page-footer:
-    center:
-      - href: mailto:hi@mdwm.org
-        icon: mail
-        aria-label: mail
     left: 
       - text: "© 2024-2026 "
     right:

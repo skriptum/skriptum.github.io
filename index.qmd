@@ -36,11 +36,12 @@ listing:
     fields: [image, date, title, description]
 ---
 
-![Picasso's Guernica](images/guernica.jpg)
 
 ***`H`ey there***! you've stumbled upon my corner of the internet. Here, I collect some random thoughts on things friends and strangers ask me. Sometimes, I'm too lazy to answer directly and point them here instead. 100% free off AI-slop, ads, or cookies. 
 
-You can find out more about me on my main site: [***martenw.com***](https://martenw.com). 
+You can find more about me on my main site: [***martenw.com***](https://martenw.com) 
+
+![Picasso's Guernica](images/guernica-narrow.jpg)
 
 ---
 
