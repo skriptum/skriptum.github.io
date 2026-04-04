@@ -59,11 +59,11 @@ Versuchen lohnt sich trotzdem! Mit guter Vorbereitung und viel Glück schaffen e
 
 Passt eure Bewerbung gut an, übt mit Freunden das Gespräch, sprecht mit Alumni aus dem Programm (wenn ihr welche kennt), macht euch schlau über die Organisation wo ihr hinwollt und dann kanns was werden.
 
-Also: **Viel Glück!** 
+Also: **Viel Glück!**,
 
 ## Frequently Asked Questions
 
-Ich sammel hier mal ein paar Fragen, die ich per Mail bekommen habe. Keine Garantie für Vollständigkeit / Richtigkeit!
+Ich sammle hier mal ein paar Fragen, die ich per Mail bekommen habe. Keine Garantie für Vollständigkeit / Richtigkeit!
 
 **Wie sind die Chancen so ganz generell?**
 
@@ -110,6 +110,8 @@ Als Praktikant:in der UN bekommt man für die USA ein G-4 Visum für Angestellte
 
 ---
 
-BTW, ich wurde für das UN Department of Economic and Social Affairs in New York angenommen, also falls ihr dazu fragen habt, schickt mir gerne ne Mail. Und auch sonst gerne, falls ihr noch ne Frage habt! 
+BTW, ich wurde für das UN Department of Economic and Social Affairs in New York angenommen, also falls ihr dazu fragen habt, schickt mir gerne ne Mail. Und auch sonst gerne!
 
 *meine Mail:* [hi@mdwm.org](mailto:hi@mdwm.org) 
+
+*mein LinkedIn:* [hier](https://www.linkedin.com/in/marten-walk/) (selten aktiv)
