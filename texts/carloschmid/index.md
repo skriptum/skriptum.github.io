@@ -17,13 +17,13 @@ title-block-banner: true
 
 ## Welche Stelle solls denn sein?
 
-***Das ist eine Plattitüde, aber nun mal wahr***: Die Stelle muss zur Bewerbung passen. Das ist so ziemlich das wichtigste, was nach dem Prozess immer wieder gesagt wurde. Heißt, wenn ihr euch als fancy Masterabsolvent mit krassem Abschluss auf ne Stelle bewerbt, die für Bachelorstudis mit anderer Richtung konzipiert wurde, bringt euch das erstmal wenig. Weder zu hoch, noch zu tief greifen ist die Lösung (klingt einfacher gesagt als getan).
+***Das ist eine Plattitüde,*** aber nun mal wahr: Die Stelle muss zur Bewerbung passen. Das ist so ziemlich das wichtigste, was nach dem Prozess immer wieder gesagt wurde. Heißt, wenn ihr euch als fancy Masterabsolvent mit krassem Abschluss auf ne Stelle bewerbt, die für Bachelorstudis mit anderer Richtung konzipiert wurde, bringt euch das erstmal wenig. Weder zu hoch, noch zu tief greifen ist die Lösung (klingt einfacher gesagt als getan).
 
 
 
 ## 1. Schritt: Bewerbungsmappe
 
-***Zuallererst: man muss nicht an ner krassen Uni studieren*** oder ein krass optimierten Lebenslauf mitbringen, um reinzukommen. Ich war an wahrlich keiner Elite Uni und bin trotzdem reingerutscht, und viele andere auch. Nichtsdestotrotz: Es sind natürlich vor allem die SciencePo / LSE Studierenden dieser Welt im Vorteil, deswegen muss man trotzdem ordentlich Arbeit in die Bewerbung reinstecken, damit die nicht im CSP wieder unter sich bleiben :)
+***Zuallererst:*** man muss nicht an ner krassen Uni studieren oder ein krass optimierten Lebenslauf mitbringen, um reinzukommen. Ich war an wahrlich keiner Elite Uni und bin trotzdem reingerutscht, und viele andere auch. Nichtsdestotrotz: Es sind natürlich vor allem die SciencePo / LSE Studierenden dieser Welt im Vorteil, deswegen muss man trotzdem ordentlich Arbeit in die Bewerbung reinstecken, damit die nicht im CSP wieder unter sich bleiben :)
 
 Am meisten Planung bedarf der Sprachnachweis auf C-Niveau. Wegen fehlendem Sprachnachweis werden viele Leute in der ersten Stufe aussortiert, also langfristig planen! Leider kostet der bei vielen privaten Unternehmen (IELTS etc.) ordentlich, aber an den meisten Unis werden auch Sprachtests abgenommen. Bei beiden Arten dauert meist die Terminvergabe, und es lohnt sich für die spezifischen Tests ein bisschen zu lernen, weil es selbst für Menschen mit guten Sprachskills einfach ne weirde Art des Testens ist.
 

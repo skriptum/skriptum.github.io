@@ -11,7 +11,7 @@ permalink: texts/kyivtrain
 ---
 
 
-![](train.png)
+![](train.png){width=100%}
 
 
 Das Design ist inzwischen allgegenwärtig bekannt. Die blaue Farbe mit den gelben Streifen, die hohen Stufen, der etwas alte Look. Meist sehen wir ihn im Bild mit wichtigen Politikern, sei es Friedrich Merz, Keir Starmer, Emmanuel Macron oder alle 3 zusammen. Die Rede ist: von dem Nachtzug der ukrainischen Staatsbahn.
@@ -33,14 +33,19 @@ Die größte Hitzequelle des Zuges ist der Samowar, eine Art Kochwassertopf. Dur
 Nach mehreren Stunden Fahrt durch die pechschwarze Nacht dann die Ankunft. Hoffentlich nicht so dehydriert wie wir (zu faul noch eine Flasche Wasser zu schleppen) wartet direkt Kyiv.
 
 
+::: {layout-ncol=3}
 
-| ![](1.JPG)  | ![](2.jpeg)     | ![](3.jpeg)                 |
-| ----------- | --------------- | --------------------------- |
-| der samowar | die aussenseite | die bequeme innenaustattung |
+![Der Samowar](1.JPG)  
+
+![Die Außenseite](2.jpeg)
+
+![Die bequeme Innenausstattung](3.jpeg)  
+:::
 
 
 
 Mehr Infos:
+
 - [Zeit Reportage über die Nachtbegleiterinnen im Zug](https://www.zeit.de/2025/30/nachtzug-kyjiw-schaffnerin-zugbegleiterin-politiker)
 - [Online Buchungsportal](https://booking.uz.gov.ua/en)
 - [Reise bei Man in Seat 61](https://www.seat61.com/Ukraine.htm), die beste Website für Züge in Europa!
