@@ -9,8 +9,9 @@ website:
   search: false
   navbar:
     logo: images/mdwm-skiwar.png
+    # logo: images/mdwm-dark.png
     logo-alt: "mdwm"
-    # title: "marten's blog"
+    # title: "mdwm"
     collapse-below: lg
     right: 
       - text: "martenw.com →"
