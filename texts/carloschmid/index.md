@@ -13,13 +13,9 @@ title-block-banner: true
 
 ***`E`in Praktikum bei*** ner internationalen Organisation, und dann auch noch dafür bezahlt werden? Besser kanns nicht klingen, und gibts auch, mit dem [Carlo-Schmid-Programm](https://www.studienstiftung.de/carlo-schmid). Weil ich vor meiner Bewerbung erfolglos nach Erfahrungsberichten aus dem Bewerbungsprozess gesucht habe, gibts hier eine kleine Gedankensammlung. Ich kannte niemanden davor, und mir hätte das vermutlich geholfen ein bisschen mehr dazu zu wissen (hat aber ohne auch geklappt).
 
-
-
 ## Welche Stelle solls denn sein?
 
 ***Das ist eine Plattitüde,*** aber nun mal wahr: Die Stelle muss zur Bewerbung passen. Das ist so ziemlich das wichtigste, was nach dem Prozess immer wieder gesagt wurde. Heißt, wenn ihr euch als fancy Masterabsolvent mit krassem Abschluss auf ne Stelle bewerbt, die für Bachelorstudis mit anderer Richtung konzipiert wurde, bringt euch das erstmal wenig. Weder zu hoch, noch zu tief greifen ist die Lösung (klingt einfacher gesagt als getan).
-
-
 
 ## 1. Schritt: Bewerbungsmappe
 
@@ -35,13 +31,9 @@ Untypisch für Bewerbungen ist die Zusammenfassung der Seminararbeiten, die der 
 
 Insgesamt ist es halt wie andere Bewerbungen. Aufeinander abgestimmte Dokumente, Vollständigkeit und nen passendes Profil sind das A und O. Die Bewerbung ist die Grundlage für alle späteren Schritte im Prozess, also steckt ordentlich Arbeit rein!
 
-
-
 ## 2. Schritt: Bewerbungsgespräch
 
 ***Bei mir fiel dieser Schritt  zum Glück weg***, weil meine Organisation alle Bewerbungen nur intern geranked hat und keine Interviews durchführt. Von dem was ich gehört habe, können die von absolut entspannt bis komplett stressig in allen Varianten kommen, und es ist schwer so richtig abzuschätzen was Sache ist. Insgesamt empfehlenswert ist sich dafür auf "competency based interview questions" vorzubereiten, die sind bei internationalen Organisationen ziemlich oft genutzt. Das ist ne spezifische Art von Fragen, um bestimme Kompetenzen abzufragen (wie der Name schon sagt), und die Antwort darauf sollte immer einem bestimmten Schema folgen (Google ist euer Freund für Beispiele).
-
-
 
 ## 3. Schritt: Gespräch mit dem DAAD
 
@@ -60,6 +52,8 @@ Versuchen lohnt sich trotzdem! Mit guter Vorbereitung und viel Glück schaffen e
 Passt eure Bewerbung gut an, übt mit Freunden das Gespräch, sprecht mit Alumni aus dem Programm (wenn ihr welche kennt), macht euch schlau über die Organisation wo ihr hinwollt und dann kanns was werden.
 
 Also: **Viel Glück!**,
+
+---
 
 ## Frequently Asked Questions
 
@@ -107,8 +101,6 @@ Aber wie immer, man kann nichts generalisieren. Manche haben sich komplettt abge
 Als Praktikant:in der UN bekommt man für die USA ein G-4 Visum für Angestellte internationaler Organisationen. Die Einreise ist damit sehr easy (auch wenn man sich natürlich nie sicher sein kann ob das so bleibt). Man musste auch keinerlei Checks über sich ergehen lassen, sondern hat seinen Pass per Post an die Botschaft geschickt und ca 3 Wochen später zurückbekommen.
 
 **Falls euch noch eine Frage auf dem Herzen brennt, schreibt mir gerne eine Mail! Ich versuchs so gut wie möglich zu beantworten.**
-
----
 
 BTW, ich wurde für das UN Department of Economic and Social Affairs in New York angenommen, also falls ihr dazu fragen habt, schickt mir gerne ne Mail. Und auch sonst gerne!
 
