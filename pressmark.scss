@@ -78,10 +78,9 @@ $table-border-color: $highlight-color;
     // position in middle always
     position: absolute;
     left: 50%;
-    margin-left: -60px !important;  /* 50% of your logo width */
+    margin-left: -30px !important;  /* 50% of your logo width */
     .navbar-logo {
-      max-height: 30px;
-      max-width: 120px;
+      max-height: 60px;
     }
   }
 }

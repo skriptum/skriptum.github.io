@@ -1,11 +1,13 @@
 ---
-pagetitle: mdwm
+pagetitle: marten's blog
 toc: false
 title-block-style: default
 format: 
-  html:
-    grid:
+  html: 
+    grid: # default widths
       body-width: 800px
+      margin-width: 250px
+      sidebar-width: 250px
 listing:
   - id: listing-intern
     contents: 

@@ -8,9 +8,10 @@ website:
   site-url: https://mdwm.org/
   search: false
   navbar:
-    logo: images/mdwm-skiwar.png
+    # logo: images/mdwm-skiwar.png
     # logo: images/mdwm-dark.png
-    logo-alt: "mdwm"
+    logo: images/logo.webp
+    logo-alt: "marten's blog"
     # title: "mdwm"
     collapse-below: lg
     right: 
