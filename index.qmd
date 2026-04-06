@@ -2,6 +2,10 @@
 pagetitle: mdwm
 toc: false
 title-block-style: default
+format: 
+  html:
+    grid:
+      body-width: 800px
 listing:
   - id: listing-intern
     contents: 

@@ -35,6 +35,7 @@ $font-color: #1b1b1b; // self explanatory
 $font-family-headings: 'Playfair Display', monospace;
 $font-family-text: 'Josefin Sans', serif;
 $font-family-smallcaps: 'Playfair Display SC', serif;
+$font-size-base: 14pt;
 
 // Bootstrap Color overwrites
 $link-color: $highlight-color;
@@ -117,11 +118,17 @@ header:empty {
   // remove the line below the title block if there is no title etc
 }
 
+h1.title {
+  margin-bottom: 0.5em !important;
+}
+
 // make the banner darker 
 
 .quarto-title-banner.page-full {
   background-color: $dark;
-  color: invert($font-color)
+  color: invert($font-color);
+  padding-top: 1em;
+  padding-bottom: 0em;
   
 }
 
@@ -233,7 +240,6 @@ body {
   font-family: $font-family-text;
   font-weight: 300;
   line-height: 1.35em;
-  font-size: 1.05em;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -241,6 +247,8 @@ h1,h2,h3,h4,h5,h6 {
   font-weight: 500;
   border-bottom: 0px !important;
   color: $font-color;
+  line-height: 1.2em;
+  padding-bottom: 0em;
 }
 
 //Smallcaps for em tags in strong tags

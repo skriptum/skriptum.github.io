@@ -34,7 +34,10 @@ format:
     toc: true
     toc-location: body
     grid:
-      body-width: 800px
+      body-width: 650px
+      sidebar-width: 450px
+      margin-width: 200px
+      # gutter-width: 0em
     html-math-method: katex
     
 
