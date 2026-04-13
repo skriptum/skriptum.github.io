@@ -32,8 +32,8 @@ $font-color: #1b1b1b; // self explanatory
 
 // Font Families
 
-$font-family-headings: 'Playfair Display', monospace;
-$font-family-text: 'Josefin Sans', serif;
+$font-family-headings: 'Playfair Display', serif;
+$font-family-text: 'Josefin Sans', sans-serif;
 $font-family-smallcaps: 'Playfair Display SC', serif;
 $font-size-base: 14pt;
 
@@ -47,13 +47,21 @@ $code-color: $font-color;
 $border-color: darken($primary-color-shade, 5%); // color of citation border
 $headings-color: $font-color;
 
+
+// Navbar and Footer
 $navbar-bg: $primary-color;
 $navbar-fg: $highlight-color;
 $footer-bg: black;
 $footer-fg: white;
 
+// Table
 $table-border-width: 0px;
 $table-border-color: $highlight-color;
+
+// Page widths / layout
+$grid-sidebar-width: 450px !default;
+$grid-body-width: 650px !default;
+$grid-margin-width: 200px !default;
 
 /*-- scss:rules --*/
 
