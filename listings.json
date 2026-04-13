@@ -1,7 +1,14 @@
 [
   {
-    "listing": "/notes/index.html",
+    "listing": "/index.html",
     "items": [
+      "/texts/unhq/index.html",
+      "/texts/carloschmid/index.html",
+      "/texts/amtrak/index.html",
+      "/texts/kyivtrain/index.html",
+      "/texts/maroccobytrain/index.html",
+      "/texts/capitalorder/index.html",
+      "/texts/klimaoekonomik/index.html",
       "/notes/northkorea.html",
       "/notes/indie-web.html",
       "/notes/GBI.html",
@@ -14,15 +21,8 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/notes/index.html",
     "items": [
-      "/texts/unhq/index.html",
-      "/texts/carloschmid/index.html",
-      "/texts/amtrak/index.html",
-      "/texts/kyivtrain/index.html",
-      "/texts/maroccobytrain/index.html",
-      "/texts/capitalorder/index.html",
-      "/texts/klimaoekonomik/index.html",
       "/notes/northkorea.html",
       "/notes/indie-web.html",
       "/notes/GBI.html",
