@@ -3,16 +3,16 @@ project:
 
 website:
   favicon: images/favicon.ico
+  llms-txt: true
   open-graph: 
     site-name: "mdwm"
   site-url: https://mdwm.org/
+  description: "marten's blog"
   search: false
   navbar:
-    # logo: images/mdwm-skiwar.png
-    # logo: images/mdwm-dark.png
     logo: images/logo.webp
     logo-alt: "marten's blog"
-    # title: "mdwm"
+    back-to-top-navigation: true
     collapse-below: lg
     right: 
       - text: "martenw.com →"
@@ -23,18 +23,24 @@ website:
   page-navigation: true
   back-to-top-navigation: false
   page-footer:
-    left: 
-      - text: "© 2024-2026 "
+    left: |
+      © 2024-2026, built with <a href='https://quarto.org' target='_blank'>Quarto</a>
     right:
       - href: about.qmd
         text: about
-
+      - href: "mailto:hi@mdwm.org"
+        text: contact
+      - text: rss
+        href: texts/index.xml
+      # If you use a logo, you need to set a feed title where you generate it, 
+      # as setting the title here interferes with the logo
 format:
   html:
-    theme: [pressmark.scss]
+    theme: pressmark.scss
     toc: true
     toc-location: body
     html-math-method: katex
+    respect-user-color-scheme: true
     
 
 link-external-icon: false
