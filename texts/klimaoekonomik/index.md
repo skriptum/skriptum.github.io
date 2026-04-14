@@ -18,7 +18,7 @@ permalink: texts/klimaoekonomik
 
 > The optimal scenario for climate change policies results in 4° global warming
 >
-> ***William Nordhaus***, Nobel price lecture
+> *__William Nordhaus__, Nobel price lecture*
 
 
 ***Beim erstmaligen Lesen dieser Aussage*** konnte ich meinen Augen kaum trauen. Es würde doch sicher niemand ernsthaft behaupten, dass dieses Szenario dass für die Menschheit optimale ist. Wo wir uns doch mit dem Vertrag von Paris 2015 darauf geeinigt haben, die globale Erwärmung auf 1,5° beziehungsweise 2° zu begrenzen. 

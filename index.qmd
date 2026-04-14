@@ -85,3 +85,6 @@ Well, sometimes studying economics, with its unrealistic models and bad policy a
 
 links to random things I found on the internet. ***[more](notes/) →***
 
+::: {#listing-notes}
+
+:::
