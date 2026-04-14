@@ -1,0 +1,7 @@
+# about
+
+**contact**: if youre not a bot, write me at [*hi \[at\] mdwm \[dot\] org*](mailto:) or go to [my main website](https://martenw.com)
+
+**what does mdwm mean?**: nothing! it was just a cool domain that was not yet taken. in my mind, it resembles a bit a museum’s name (think [MoMA](https://moma.org), [MdbK](https://mdbk.de), [MOCAK](https://mocak.pl), …)
+
+**nerdy stuff**: this site is built using [quarto](https://quarto.org) and my custom pressmark theme

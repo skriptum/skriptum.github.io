@@ -1,0 +1,17 @@
+# I Will Fucking Piledrive You If You Mention AI Again
+
+Author
+
+Nikhil Suresh
+
+Published
+
+January 10, 2025
+
+<https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/> \[[archive](https://web.archive.org/web/https://ludic.mataroa.blog/blog/i-will-fucking-piledrive-you-if-you-mention-ai-again/)\]
+
+what an amazing read to all the AI bros out there, saying it is the *fUtuRe*. reality is, most of us dont even know what it is, and how to use it properly is something completely different.
+
+> And then some absolute son of a bitch created ChatGPT, and now look at us. Look at us, resplendent in our pauper’s robes, stitched from corpulent greed and breathless credulity, spending half of the planet’s engineering efforts to add chatbot support to every application under the sun
+
+it seems to be that even their creators despise chatbots…
