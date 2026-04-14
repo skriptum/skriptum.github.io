@@ -9,7 +9,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:ital,wght@0,400..900;1,400..900&display=swap'); // Smallcaps
 
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap'); //sans-serif
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&display=swap'); // Alternative serif
+// @import url('https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,200..800;1,6..72,200..800&display=swap'); // Alternative serif
 
 
 $primary-color: #faf9f6;  // page background
@@ -17,7 +17,7 @@ $primary-color-shade: #f0eee7; // code blocks etc
 $highlight-color: #990f3d; // color highlights
 $highlight-color-shade: #d0b6b6; // hover color for buttons
 $dark : #000000;  // mostly used for borders
-$font-color: #111111; // self explanatory 
+$font-color: #1b1b1b; // self explanatory 
 
   // $primary-color: rgb(20, 20, 20);  // page background
   // $primary-color-shade: rgb(30, 30, 30); // code blocks etc
@@ -29,7 +29,7 @@ $font-color: #111111; // self explanatory
 
 // Font Families
 $font-family-headings: 'Playfair Display', 'Bodoni', 'Times New Roman', serif;
-$font-family-text: 'EB Garamond', 'Georgia', 'Times New Roman', serif;
+$font-family-text: 'Newsreader', 'Georgia', 'Times New Roman', serif;
 $font-family-smallcaps: 'Playfair Display SC', 'Times New Roman', serif;
 $font-size-base: 19px;
 $font-size-small: 0.85em;
@@ -246,7 +246,7 @@ nav:not(.toc-active)#TOC {
 
 body {
   font-family: $font-family-text;
-  font-weight: 400;
+  font-weight: 350;
   line-height: 1.35;
 }
 
