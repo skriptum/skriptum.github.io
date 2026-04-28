@@ -24,7 +24,7 @@ website:
   back-to-top-navigation: false
   page-footer:
     left: |
-      © 2024-2026, built with <a href='https://quarto.org' target='_blank'>Quarto</a>
+      © 2024-2026, built with <a href='https://mdwm.org/quarto-pressmark' target='_blank'>Quarto Pressmark</a>
     right:
       - href: about.qmd
         text: about
