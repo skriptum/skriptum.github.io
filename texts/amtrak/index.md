@@ -133,7 +133,9 @@ Train type used by Amtrak on the long-distance routes. It's a double decker trai
 
 ## T - Toilets {#T}
 
-Better than expected (for real). If you're in a sleeper car, you'll have your own, so it doesn't matter. If you're in coach, the toilets are located in the lower level, and on most trips there were 5 toilets per car (including one very spacious changing room). Never had a line, running hot and cold water, and mostly working. Very high water pressure in the taps!
+Better than expected (for real), at least on a [Super liner ***→ S***](#S). If you're in a sleeper car, you'll have your own, so it doesn't matter. If you're in coach, the toilets are located in the lower level, and on most trips there were 5 toilets per car (including one very spacious changing room). Never had a line, running hot and cold water, and mostly working. Very high water pressure in the taps!
+
+![Floor plan with toilet locations](floorplan.png)
 
 ## U - Utensils to bring {#U}
 
