@@ -43,6 +43,53 @@ Es werden in den Interviews auch Sprachkompetenzen getestet, heißt es wird zwis
 
 Eine Frage die mich aus dem Konzept geworfen hat: "Was ist dein Lieblings SDG?" (wtf). Es wird also auch zu random Dingen aus dem Kontext von internationalen Organisationen insgesamt gefragt, den man also ein bisschen kennen sollte. Sonst waren sehr viele individuelle Fragen dabei, die schwer vorhersehbar sind. (ChatGPT gibt btw gute Übungsfragen auf Basis euer Unterlagen aus)
 
+
+### Beispielfragen aus den Interviews
+
+Hier mal nur ein paar Beispiele, damit ihr eine Vorstellung davon bekommt, was so gefragt wurde in verschiedenen Gesprächen.
+
+<details>
+<summary>UN Chief Executive Board</summary>
+
+- UN 80 Initiative erklären
+- was sind assessed contributions und bezahlen die USA die noch (das konnte ich als einziges nicht genau beantworten, wusste nur, dass sie insgesamt weniger Geld geben)
+- was genau ist die Aufgabe/das Mandat meiner Stelle
+- welche UN inter-agency coordination mechanisms gibt es noch außer CEB HLCP (das ist die Stelle, auf die ich mich beworben habe)
+- welche stelle meines Lebenslaufs befähigt mich für die Stelle
+- wie passt die Stelle zu meinem Lebenslauf und meine Motivation für genau diese Stelle
+- wo sehe ich mich in 5-10 Jahren
+- wie gehe ich mit interkulturellen Konflikten um und hatte ich diese schonmal in der Vergangenheit
+- hat meine written work im Bachelorstudium konkrete learnings produziert, die für die Stelle relevant sind (die Frage und meine Antwort waren auf Englisch)
+
+</details>
+
+<details>
+<summary>UN DESA</summary>
+
+- Beschreibe den Washington Consensus und was man daran kritisch sehen kann
+- Wo siehst du dich in 5 Jahren?
+- Was ist dein Lieblings-SDG und warum?
+- mit Nachfrage nachdem ich eins gewählt habe: Leute einer IO würden jetzt sagen, dass man sich keins herauspicken kann, sondern alle zusammen denken muss? Was sagst du dazu?
+- Wann hattest du schonmal in einem Team Probleme mit interkulturell unterschiedlichen Vorstellungen und wie hast du es gemanagt?
+
+
+</details>
+
+<details>
+<summary>EBRD</summary>
+
+- Wie passt deine Erfahrung zu der Stelle?
+- Wie passt Erfahrung X (vor ganz langer Zeit) zu der Stelle?
+- Wie analysierst du große Mengen an Daten - sowohl qualitativ als auch quantitativ?
+- Wie priorisierst du Aufgaben, wenn viele gleichzeitig kommen?
+- Was gehst du damit um, wenn du keine Aufgaben bekommst? 
+- Wann hattest du mal Kommunkiationschwierigkeiten und wie bist du darüber hinweggekommen? 
+
+</details>
+
+
+
+
 ## Die Antwort
 
 Nach einem sich sehr lang anhaltenden Warteprozess kommt dann die Antwort. Ich war etwas überrascht von meiner Zusage, ich hatte mit einer Absage gerechnet. Wichtig ist in Erinnerung zu behalten, dass sich etwa 1000 Leute bewerben und nur ca 10% reinkommen. Es ist einfach sehr kompetitiv und es wird stark ausgesiebt. 
