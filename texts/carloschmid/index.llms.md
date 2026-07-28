@@ -100,7 +100,7 @@ Kurz einmal ein Überblick über die Zahlen (alles gerundet):
 - Bewerbungen gesamt: ca 950
   - Aussortiert weil unvollständig: 250 (vermeidbar!)
 - Vorauswahl: folglich 700
-  - an Erstwahl weitergeleitet: 500  
+  - an Erstwahl weitergeleitet: 500\
   - an Zweitwahl weitergeletet: 70
   - der Rest: raus
 - Interviews: keine Zahlen, da von den Organisationen selber durchgeführt

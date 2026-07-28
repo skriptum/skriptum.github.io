@@ -81,7 +81,7 @@ Now, theres the Riverview Cafeteria: the food is meh, prices are extortionate, a
 
 ![](building.png)
 
-Left: Louis Faurer, 52nd Street Pier Looking Towards the United Nations Building (1984) \[[NGA.gov](https://www.nga.gov/artworks/222079-52nd-street-pier-looking-towards-united-nations-building-new-york-new-york)\]  
+Left: Louis Faurer, 52nd Street Pier Looking Towards the United Nations Building (1984) \[[NGA.gov](https://www.nga.gov/artworks/222079-52nd-street-pier-looking-towards-united-nations-building-new-york-new-york)\]\
 Right: Robert Frank, United Nations Building (1954) \[[NGA.gov](https://www.nga.gov/artworks/89446-united-nations-building-new-york-city-no-number)\]
 
 ***I dont need to tell you*** that New York is just crazy. In good ways as well as bad. You’ll constantly recognise buildings and places from pop culture as you walk through the streets, stumble into famous people and see a plethora of different lives and cultures in just one block. The city has so much to offer: (dive) bars, clubs, museums, politics, and it’s not always expensive. Examples: Culturepass (for free museum entry), Free city gyms and pools (recreation centers), great public libraries (NYPL), … I could go on forever. You’ll just have to experience the magic of this city for yourself!

@@ -2,6 +2,12 @@
 
 Interesting things I stumbled upon on the internet
 
+### [Politics after Literacy](../notes/politics-after-literacy.llms.md)
+
+https://jacobin.com/2026/03/politics-after-literacy
+
+Jul 1, 2026
+
 ### [North Korea: It might not get any weirder than this](../notes/northkorea.llms.md)
 
 Mar 1, 2026

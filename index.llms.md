@@ -72,6 +72,12 @@ Jun 12, 2022
 
 links to random things I found on the internet. ***[more](notes/) →***
 
+##### Politics after Literacy
+
+https://jacobin.com/2026/03/politics-after-literacy
+
+Jul 1, 2026
+
 ##### North Korea: It might not get any weirder than this
 
 Mar 1, 2026
@@ -79,7 +85,3 @@ Mar 1, 2026
 ##### A website to destroy all websites
 
 Jan 2, 2026
-
-##### When Kylie Minogue Was a Font
-
-Nov 24, 2025

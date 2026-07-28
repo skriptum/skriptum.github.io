@@ -1,83 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mdwm.org/notes/Pedal.html</loc>
-    <lastmod>2026-06-07T01:12:26.498Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/notes/radical-chic.html</loc>
-    <lastmod>2026-06-07T01:12:26.507Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/notes/index.html</loc>
-    <lastmod>2026-06-07T01:12:26.498Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/notes/anarchist-calisthenics.html</loc>
-    <lastmod>2026-06-07T01:12:26.498Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/notes/northkorea.html</loc>
-    <lastmod>2026-06-07T01:12:26.505Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/texts/capitalorder/index.html</loc>
-    <lastmod>2026-06-07T01:12:26.516Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/texts/kyivtrain/index.html</loc>
-    <lastmod>2026-06-07T01:12:26.529Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/texts/index.html</loc>
-    <lastmod>2026-06-07T01:12:26.517Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/texts/carloschmid/index.html</loc>
-    <lastmod>2026-06-07T01:12:26.516Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/about.html</loc>
-    <lastmod>2026-06-07T01:12:26.495Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/texts/klimaoekonomik/index.html</loc>
-    <lastmod>2026-06-07T01:12:26.518Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/texts/amtrak/index.html</loc>
-    <lastmod>2026-06-07T01:12:26.511Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/texts/maroccobytrain/index.html</loc>
-    <lastmod>2026-06-07T01:12:26.532Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/texts/unhq/index.html</loc>
-    <lastmod>2026-06-07T01:12:26.540Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/notes/melenchon.html</loc>
-    <lastmod>2026-06-07T01:12:26.500Z</lastmod>
-  </url>
-  <url>
-    <loc>https://mdwm.org/notes/ludic_AI.html</loc>
-    <lastmod>2026-06-07T01:12:26.500Z</lastmod>
-  </url>
-  <url>
     <loc>https://mdwm.org/notes/challenges.html</loc>
-    <lastmod>2026-06-07T01:12:26.498Z</lastmod>
+    <lastmod>2026-07-28T19:44:17.850Z</lastmod>
   </url>
   <url>
     <loc>https://mdwm.org/notes/GBI.html</loc>
-    <lastmod>2026-06-07T01:12:26.498Z</lastmod>
+    <lastmod>2026-07-28T19:44:17.850Z</lastmod>
   </url>
   <url>
     <loc>https://mdwm.org/notes/indie-web.html</loc>
-    <lastmod>2026-06-07T01:12:26.498Z</lastmod>
+    <lastmod>2026-07-28T19:44:17.851Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/notes/ludic_AI.html</loc>
+    <lastmod>2026-07-28T19:44:17.852Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/notes/anarchist-calisthenics.html</loc>
+    <lastmod>2026-07-28T19:44:17.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/notes/northkorea.html</loc>
+    <lastmod>2026-07-28T19:44:17.858Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/texts/kyivtrain/index.html</loc>
+    <lastmod>2026-07-28T19:44:17.883Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/texts/unhq/index.html</loc>
+    <lastmod>2026-07-28T19:44:17.894Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/texts/index.html</loc>
+    <lastmod>2026-07-28T19:44:17.870Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/texts/capitalorder/index.html</loc>
+    <lastmod>2026-07-28T19:44:17.870Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/about.html</loc>
+    <lastmod>2026-07-28T19:44:17.846Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/texts/carloschmid/index.html</loc>
+    <lastmod>2026-07-28T19:44:17.870Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/texts/klimaoekonomik/index.html</loc>
+    <lastmod>2026-07-28T19:44:17.872Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/texts/maroccobytrain/index.html</loc>
+    <lastmod>2026-07-28T19:44:17.886Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/texts/amtrak/index.html</loc>
+    <lastmod>2026-07-28T19:44:17.864Z</lastmod>
   </url>
   <url>
     <loc>https://mdwm.org/index.html</loc>
-    <lastmod>2026-06-07T01:12:26.497Z</lastmod>
+    <lastmod>2026-07-28T19:44:17.849Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/notes/radical-chic.html</loc>
+    <lastmod>2026-07-28T19:44:17.860Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/notes/melenchon.html</loc>
+    <lastmod>2026-07-28T19:44:17.853Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/notes/Pedal.html</loc>
+    <lastmod>2026-07-28T19:44:17.850Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/notes/politics-after-literacy.html</loc>
+    <lastmod>2026-07-28T19:44:17.859Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mdwm.org/notes/index.html</loc>
+    <lastmod>2026-07-28T19:44:17.850Z</lastmod>
   </url>
 </urlset>

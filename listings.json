@@ -1,19 +1,5 @@
 [
   {
-    "listing": "/notes/index.html",
-    "items": [
-      "/notes/northkorea.html",
-      "/notes/indie-web.html",
-      "/notes/GBI.html",
-      "/notes/melenchon.html",
-      "/notes/challenges.html",
-      "/notes/radical-chic.html",
-      "/notes/Pedal.html",
-      "/notes/anarchist-calisthenics.html",
-      "/notes/ludic_AI.html"
-    ]
-  },
-  {
     "listing": "/texts/index.html",
     "items": [
       "/texts/amtrak/index.html",
@@ -35,6 +21,22 @@
       "/texts/maroccobytrain/index.html",
       "/texts/capitalorder/index.html",
       "/texts/klimaoekonomik/index.html",
+      "/notes/politics-after-literacy.html",
+      "/notes/northkorea.html",
+      "/notes/indie-web.html",
+      "/notes/GBI.html",
+      "/notes/melenchon.html",
+      "/notes/challenges.html",
+      "/notes/radical-chic.html",
+      "/notes/Pedal.html",
+      "/notes/anarchist-calisthenics.html",
+      "/notes/ludic_AI.html"
+    ]
+  },
+  {
+    "listing": "/notes/index.html",
+    "items": [
+      "/notes/politics-after-literacy.html",
       "/notes/northkorea.html",
       "/notes/indie-web.html",
       "/notes/GBI.html",
