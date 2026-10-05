@@ -2,6 +2,12 @@
 
 Interesting things I stumbled upon on the internet
 
+### [Der Ernstfall ist jetzt - zum AfD-Wahlsieg in Sachsen-Anhalt](../notes/ernstfall.llms.md)
+
+https://www.zeit.de/politik/2026-09/kommentar-afd-wahlsieg-sachsen-anhalt-nachrichtenpodcast
+
+Sep 10, 2026
+
 ### [Politics after Literacy](../notes/politics-after-literacy.llms.md)
 
 https://jacobin.com/2026/03/politics-after-literacy

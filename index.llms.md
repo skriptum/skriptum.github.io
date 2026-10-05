@@ -72,6 +72,12 @@ Jun 12, 2022
 
 links to random things I found on the internet. ***[more](notes/) →***
 
+##### Der Ernstfall ist jetzt - zum AfD-Wahlsieg in Sachsen-Anhalt
+
+https://www.zeit.de/politik/2026-09/kommentar-afd-wahlsieg-sachsen-anhalt-nachrichtenpodcast
+
+Sep 10, 2026
+
 ##### Politics after Literacy
 
 https://jacobin.com/2026/03/politics-after-literacy
@@ -81,7 +87,3 @@ Jul 1, 2026
 ##### North Korea: It might not get any weirder than this
 
 Mar 1, 2026
-
-##### A website to destroy all websites
-
-Jan 2, 2026
